@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.advancedvrframework-10757647.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "C:/Users/andreas.hauber/Documents/Unreal Projects/Store_424/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "AdvancedVRFramework-10757647 [UE Editor]"
+				}
+			}
+		}
+	]
+}
