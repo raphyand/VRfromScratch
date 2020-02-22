@@ -1,0 +1,1149 @@
+﻿Log file open, 02/22/20 14:04:02
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BowlingVR
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.070189
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogHMD: Failed initializing OVRPlugin 1.40.0
+LogInit: Build: ++UE4+Release-4.24-CL-11100242
+LogInit: Engine Version: 4.24.2-11100242+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-4690K CPU @ 3.50GHz, GPU: NVIDIA GeForce GTX 1660 Ti
+LogInit: Compiled (64-bit): Jan 24 2020 02:05:53
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line:  -EpicPortal -epicusername=AzariasThree -epicuserid=a6dc07ad01fd4632909d60023a1730c4 -epiclocale=en
+LogInit: Base Directory: D:/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.22-22.04.03:498][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.22-22.04.03:498][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.22-22.04.03:498][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/GitHub/VRfromScratch/BowlingVR 4.24/Saved/Config/Windows/Engine.ini]
+[2020.02.22-22.04.03:498][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.22-22.04.03:498][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.02.22-22.04.03:498][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2020.02.22-22.04.03:498][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2020.02.22-22.04.03:498][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.02.22-22.04.03:498][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2020.02.22-22.04.03:498][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2020.02.22-22.04.03:498][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2020.02.22-22.04.03:498][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/GitHub/VRfromScratch/BowlingVR 4.24/Saved/Config/Windows/Engine.ini]
+[2020.02.22-22.04.03:498][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GitHub/VRfromScratch/BowlingVR 4.24/Saved/Config/Windows/Engine.ini]
+[2020.02.22-22.04.03:498][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.22-22.04.03:498][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.22-22.04.03:498][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.22-22.04.03:498][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.22-22.04.03:498][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.22-22.04.03:498][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.22-22.04.03:498][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.22-22.04.03:498][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.22-22.04.03:498][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.22-22.04.03:498][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.22-22.04.03:498][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.22-22.04.03:498][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.22-22.04.03:498][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.22-22.04.03:498][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.02.22-22.04.03:498][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/GitHub/VRfromScratch/BowlingVR 4.24/Saved/Config/Windows/Engine.ini]
+[2020.02.22-22.04.03:498][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.22-22.04.03:498][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.22-22.04.03:498][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.22-22.04.03:498][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.22-22.04.03:498][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.22-22.04.03:498][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.22-22.04.03:498][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.02.22-22.04.03:498][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.22-22.04.03:499][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.22-22.04.03:499][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.22-22.04.03:499][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.22-22.04.03:499][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.22-22.04.03:499][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.22-22.04.03:499][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/GitHub/VRfromScratch/BowlingVR 4.24/Saved/Config/Windows/Engine.ini]
+[2020.02.22-22.04.03:499][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/GitHub/VRfromScratch/BowlingVR 4.24/Saved/Config/Windows/Engine.ini]
+[2020.02.22-22.04.03:504][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GitHub/VRfromScratch/BowlingVR 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-22.04.03:504][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.22-22.04.03:504][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.22-22.04.03:504][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GitHub/VRfromScratch/BowlingVR 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-22.04.03:504][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.22-22.04.03:504][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GitHub/VRfromScratch/BowlingVR 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-22.04.03:504][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.22-22.04.03:504][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.22-22.04.03:504][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.22-22.04.03:504][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.22-22.04.03:504][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.22-22.04.03:504][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.22-22.04.03:504][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.22-22.04.03:504][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.22-22.04.03:504][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.22-22.04.03:504][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.22-22.04.03:504][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.22-22.04.03:504][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.22-22.04.03:504][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.22-22.04.03:504][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.22-22.04.03:504][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.22-22.04.03:504][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.22-22.04.03:504][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.22-22.04.03:504][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.22-22.04.03:504][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GitHub/VRfromScratch/BowlingVR 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-22.04.03:504][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.22-22.04.03:504][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.22-22.04.03:504][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.22-22.04.03:504][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.22-22.04.03:504][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.22-22.04.03:504][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.22-22.04.03:504][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.22-22.04.03:504][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.22-22.04.03:504][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.22-22.04.03:504][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.22-22.04.03:504][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.22-22.04.03:504][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.22-22.04.03:504][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.22-22.04.03:504][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.22-22.04.03:504][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.22-22.04.03:504][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.22-22.04.03:504][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.22-22.04.03:504][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.22-22.04.03:504][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.22-22.04.03:504][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.22-22.04.03:504][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.22-22.04.03:504][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.22-22.04.03:504][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.22-22.04.03:504][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.22-22.04.03:504][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.22-22.04.03:504][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.22-22.04.03:504][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.22-22.04.03:504][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.22-22.04.03:504][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.22-22.04.03:504][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.22-22.04.03:505][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GitHub/VRfromScratch/BowlingVR 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-22.04.03:505][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.22-22.04.03:505][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.22-22.04.03:505][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.22-22.04.03:505][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.22-22.04.03:505][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.22-22.04.03:505][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.02.22-22.04.03:505][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.22-22.04.03:505][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.22-22.04.03:505][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.22-22.04.03:505][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GitHub/VRfromScratch/BowlingVR 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-22.04.03:505][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.22-22.04.03:505][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.22-22.04.03:505][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.22-22.04.03:505][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.02.22-22.04.03:505][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.22-22.04.03:505][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.22-22.04.03:505][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.22-22.04.03:505][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.22-22.04.03:505][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.22-22.04.03:505][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.22-22.04.03:505][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.22-22.04.03:505][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.22-22.04.03:505][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.02.22-22.04.03:505][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.22-22.04.03:505][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.22-22.04.03:505][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.02.22-22.04.03:505][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.02.22-22.04.03:505][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.02.22-22.04.03:505][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.02.22-22.04.03:505][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.02.22-22.04.03:505][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.02.22-22.04.03:505][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.02.22-22.04.03:505][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.02.22-22.04.03:505][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.02.22-22.04.03:505][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.02.22-22.04.03:505][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.02.22-22.04.03:505][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GitHub/VRfromScratch/BowlingVR 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-22.04.03:505][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.22-22.04.03:505][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.22-22.04.03:505][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GitHub/VRfromScratch/BowlingVR 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-22.04.03:505][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.02.22-22.04.03:505][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.02.22-22.04.03:505][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.02.22-22.04.03:505][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.22-22.04.03:505][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.22-22.04.03:507][  0]LogHAL: Display: Platform has ~ 16 GB [16981479424 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.22-22.04.03:507][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.22-22.04.03:507][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GitHub/VRfromScratch/BowlingVR 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-22.04.03:507][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.22-22.04.03:507][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.22-22.04.03:507][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GitHub/VRfromScratch/BowlingVR 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-22.04.03:507][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.22-22.04.03:507][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GitHub/VRfromScratch/BowlingVR 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-22.04.03:507][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.22-22.04.03:507][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GitHub/VRfromScratch/BowlingVR 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GitHub/VRfromScratch/BowlingVR 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GitHub/VRfromScratch/BowlingVR 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GitHub/VRfromScratch/BowlingVR 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.22-22.04.03:508][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.22-22.04.03:509][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GitHub/VRfromScratch/BowlingVR 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-22.04.03:509][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.02.22-22.04.03:509][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.02.22-22.04.03:509][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.02.22-22.04.03:509][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.22-22.04.03:509][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.22-22.04.03:509][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.02.22-22.04.03:509][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GitHub/VRfromScratch/BowlingVR 4.24/Saved/Config/Windows/Engine.ini]
+[2020.02.22-22.04.03:509][  0]LogInit: Computer: XENOSEMPIRE
+[2020.02.22-22.04.03:509][  0]LogInit: User: Ralphy
+[2020.02.22-22.04.03:509][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.02.22-22.04.03:509][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.02.22-22.04.03:509][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2020.02.22-22.04.03:509][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.22-22.04.03:509][  0]LogMemory: Process Physical Memory: 106.78 MB used, 106.79 MB peak
+[2020.02.22-22.04.03:509][  0]LogMemory: Process Virtual Memory: 104.08 MB used, 104.08 MB peak
+[2020.02.22-22.04.03:509][  0]LogMemory: Physical Memory: 13030.82 MB used,  3163.98 MB free, 16194.80 MB total
+[2020.02.22-22.04.03:509][  0]LogMemory: Virtual Memory: 5162.46 MB used,  134212568.00 MB free, 134217728.00 MB total
+[2020.02.22-22.04.03:513][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.02.22-22.04.03:529][  0]LogInit: Using OS detected language (en-US).
+[2020.02.22-22.04.03:529][  0]LogInit: Using OS detected locale (en-US).
+[2020.02.22-22.04.03:530][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.02.22-22.04.03:697][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.22-22.04.03:737][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.22-22.04.03:737][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.22-22.04.04:048][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2020.02.22-22.04.04:048][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.02.22-22.04.04:048][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.02.22-22.04.04:048][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.22-22.04.04:111][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1660 Ti' (Feature Level 11_0)
+[2020.02.22-22.04.04:111][  0]LogD3D11RHI:       5991/0/8097 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.02.22-22.04.04:116][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2020.02.22-22.04.04:116][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.02.22-22.04.04:118][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.22-22.04.04:118][  0]LogD3D11RHI:       0/0/8097 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.22-22.04.04:118][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.22-22.04.04:125][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.22-22.04.04:125][  0]LogD3D11RHI:     GPU DeviceId: 0x2182 (for the marketing name, search the web for "GPU Device Id")
+[2020.02.22-22.04.04:125][  0]LogWindows: EnumDisplayDevices:
+[2020.02.22-22.04.04:126][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1660 Ti' (P:1 D:1)
+[2020.02.22-22.04.04:126][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2020.02.22-22.04.04:126][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2020.02.22-22.04.04:126][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2020.02.22-22.04.04:127][  0]LogWindows:    4. 'Intel(R) HD Graphics 4600' (P:0 D:1)
+[2020.02.22-22.04.04:127][  0]LogWindows:    5. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2020.02.22-22.04.04:127][  0]LogWindows:    6. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2020.02.22-22.04.04:127][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.02.22-22.04.04:127][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1660 Ti
+[2020.02.22-22.04.04:127][  0]LogD3D11RHI:   Driver Version: 442.19 (internal:26.21.14.4219, unified:442.19)
+[2020.02.22-22.04.04:127][  0]LogD3D11RHI:      Driver Date: 1-29-2020
+[2020.02.22-22.04.04:127][  0]LogRHI: Texture pool is 4193 MB (70% of 5991 MB)
+[2020.02.22-22.04.04:179][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.02.22-22.04.04:179][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.22-22.04.04:196][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.02.22-22.04.05:293][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.02.22-22.04.05:323][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.02.22-22.04.05:323][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.02.22-22.04.05:323][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.02.22-22.04.05:323][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.02.22-22.04.05:323][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.02.22-22.04.05:324][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.02.22-22.04.05:324][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.02.22-22.04.05:324][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.02.22-22.04.05:324][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.02.22-22.04.05:324][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.02.22-22.04.05:324][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.02.22-22.04.05:324][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.02.22-22.04.05:324][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.02.22-22.04.05:324][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.02.22-22.04.05:324][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.02.22-22.04.05:324][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.02.22-22.04.05:324][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.02.22-22.04.05:324][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.02.22-22.04.05:341][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.02.22-22.04.05:341][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.02.22-22.04.05:348][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.02.22-22.04.05:354][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.02.22-22.04.05:361][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.02.22-22.04.05:367][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.02.22-22.04.05:374][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.02.22-22.04.05:381][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.02.22-22.04.05:406][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.02.22-22.04.05:406][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.02.22-22.04.05:419][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.02.22-22.04.05:419][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.02.22-22.04.05:425][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.02.22-22.04.05:432][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.02.22-22.04.05:438][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.02.22-22.04.05:445][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.02.22-22.04.05:445][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.22-22.04.05:447][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.02.22-22.04.05:462][  0]LogShaderCompilers: Guid format shader working directory is -31 characters bigger than the processId version (../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Intermediate/Shaders/WorkingDirectory/15232/).
+[2020.02.22-22.04.05:462][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'D:/Temp/UnrealShaderWorkingDir/8D57E5D349A47407D0F918840D411EA3/'.
+[2020.02.22-22.04.05:463][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.02.22-22.04.05:463][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.02.22-22.04.05:463][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.22-22.04.06:153][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.22-22.04.06:220][  0]LogDerivedDataCache: Loaded boot cache 0.07s 103MB C:/Users/Ralphy/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.02.22-22.04.06:220][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Ralphy/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.02.22-22.04.06:220][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../GitHub/VRfromScratch/BowlingVR 4.24/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.22-22.04.06:220][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.22-22.04.06:220][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../GitHub/VRfromScratch/BowlingVR 4.24/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.22-22.04.06:220][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.22-22.04.06:229][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.22-22.04.06:229][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.22-22.04.06:229][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.02.22-22.04.06:230][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Ralphy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.22-22.04.06:230][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.22-22.04.06:230][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.22-22.04.06:255][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.22-22.04.06:257][  0]LogSlate: Using FreeType 2.10.0
+[2020.02.22-22.04.06:258][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.22-22.04.06:311][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2020.02.22-22.04.06:569][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.22-22.04.06:713][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.22-22.04.06:713][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.02.22-22.04.06:713][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.22-22.04.06:713][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.02.22-22.04.06:713][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.02.22-22.04.06:726][  0]LogNetVersion: BowlingVR 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 3455478698)
+[2020.02.22-22.04.06:770][  0]LogInput: Warning: Action TeleportRight uses deprecated key MotionController_Right_Thumbstick.
+[2020.02.22-22.04.06:770][  0]LogInput: Warning: Action GrabLeft uses deprecated key MotionController_Left_Trigger.
+[2020.02.22-22.04.06:770][  0]LogInput: Warning: Action GrabRight uses deprecated key MotionController_Right_Trigger.
+[2020.02.22-22.04.06:770][  0]LogInput: Warning: Action TeleportLeft uses deprecated key MotionController_Left_Thumbstick.
+[2020.02.22-22.04.06:770][  0]LogInput: Warning: Action TeleportLeft uses deprecated key MotionController_Left_FaceButton1.
+[2020.02.22-22.04.06:770][  0]LogInput: Warning: Action TeleportRight uses deprecated key MotionController_Right_FaceButton1.
+[2020.02.22-22.04.06:770][  0]LogInput: Warning: Axis MotionControllerThumbLeft_Y uses deprecated key MotionController_Left_Thumbstick_Y.
+[2020.02.22-22.04.06:770][  0]LogInput: Warning: Axis MotionControllerThumbLeft_X uses deprecated key MotionController_Left_Thumbstick_X.
+[2020.02.22-22.04.06:770][  0]LogInput: Warning: Axis MotionControllerThumbRight_Y uses deprecated key MotionController_Right_Thumbstick_Y.
+[2020.02.22-22.04.06:770][  0]LogInput: Warning: Axis MotionControllerThumbRight_X uses deprecated key MotionController_Right_Thumbstick_X.
+[2020.02.22-22.04.07:826][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.124147 seconds
+[2020.02.22-22.04.07:833][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.02.22-22.04.07:833][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.02.22-22.04.07:833][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.22-22.04.08:186][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.22-22.04.08:341][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.22-22.04.08:386][  0]SourceControl: Source control is disabled
+[2020.02.22-22.04.08:386][  0]SourceControl: Source control is disabled
+[2020.02.22-22.04.08:386][  0]SourceControl: Source control is disabled
+[2020.02.22-22.04.08:387][  0]SourceControl: Source control is disabled
+[2020.02.22-22.04.08:388][  0]SourceControl: Source control is disabled
+[2020.02.22-22.04.08:453][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.22-22.04.08:461][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.02.22-22.04.08:461][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.02.22-22.04.08:538][  0]LogOcInput: OculusInput pre-init called
+[2020.02.22-22.04.09:205][  0]LogEngine: Initializing Engine...
+[2020.02.22-22.04.09:242][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2020.02.22-22.04.09:243][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.02.22-22.04.09:567][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.22-22.04.09:573][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.22-22.04.09:587][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.22-22.04.09:587][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.22-22.04.09:587][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.02.22-22.04.09:587][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.02.22-22.04.09:587][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.02.22-22.04.09:587][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.22-22.04.09:587][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.22-22.04.09:587][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.22-22.04.09:587][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.22-22.04.09:588][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.22-22.04.09:635][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.22-22.04.09:635][  0]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.02.22-22.04.09:635][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.02.22-22.04.09:635][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.22-22.04.09:635][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.22-22.04.09:635][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.22-22.04.09:635][  0]LogAudioMixer: Display: Channel Order:
+[2020.02.22-22.04.09:635][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.22-22.04.09:635][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.02.22-22.04.09:664][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.02.22-22.04.09:668][  0]LogInit: FAudioDevice initialized.
+[2020.02.22-22.04.09:668][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.22-22.04.09:836][  0]LogDerivedDataCache: Saved boot cache 0.17s 103MB C:/Users/Ralphy/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.02.22-22.04.09:845][  0]LogInit: Texture streaming: Enabled
+[2020.02.22-22.04.09:852][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.22-22.04.09:852][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.02.22-22.04.09:854][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.02.22-22.04.09:871][  0]LogInit: Transaction tracking system initialized
+[2020.02.22-22.04.09:879][  0]BlueprintLog: New page: Editor Load
+[2020.02.22-22.04.09:901][  0]LocalizationService: Localization service is disabled
+[2020.02.22-22.04.10:167][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.22-22.04.10:167][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.22-22.04.10:818][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/VRfromScratch/BowlingVR 4.24/Content/' took 0.40s
+[2020.02.22-22.04.10:819][  0]SourceControl: Source control is disabled
+[2020.02.22-22.04.10:819][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 D:/Epic Games/UE_4.24/FeaturePacks/StarterContent.upack)
+[2020.02.22-22.04.10:824][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2020.02.22-22.04.10:897][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2020.02.22-22.04.10:974][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2020.02.22-22.04.11:094][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2020.02.22-22.04.11:164][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2020.02.22-22.04.11:219][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2020.02.22-22.04.11:715][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2020.02.22-22.04.11:786][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2020.02.22-22.04.12:012][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2020.02.22-22.04.12:081][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2020.02.22-22.04.12:224][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2020.02.22-22.04.12:504][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2020.02.22-22.04.12:575][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Audio/Collapse01.uasset"
+[2020.02.22-22.04.12:632][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Audio/Collapse02.uasset"
+[2020.02.22-22.04.12:664][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2020.02.22-22.04.12:716][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Audio/Explosion01.uasset"
+[2020.02.22-22.04.12:772][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Audio/Explosion02.uasset"
+[2020.02.22-22.04.13:070][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2020.02.22-22.04.13:136][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Audio/Fire01.uasset"
+[2020.02.22-22.04.13:163][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2020.02.22-22.04.13:216][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2020.02.22-22.04.13:248][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2020.02.22-22.04.13:275][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Audio/Light01.uasset"
+[2020.02.22-22.04.13:390][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2020.02.22-22.04.13:415][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Audio/Light02.uasset"
+[2020.02.22-22.04.13:426][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2020.02.22-22.04.13:481][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Audio/Smoke01.uasset"
+[2020.02.22-22.04.13:507][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2020.02.22-22.04.13:547][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2020.02.22-22.04.13:650][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2020.02.22-22.04.13:805][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2020.02.22-22.04.13:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2020.02.22-22.04.13:928][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2020.02.22-22.04.14:003][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2020.02.22-22.04.14:066][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Audio/Steam01.uasset"
+[2020.02.22-22.04.14:095][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2020.02.22-22.04.14:143][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2020.02.22-22.04.14:176][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2020.02.22-22.04.14:212][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2020.02.22-22.04.14:246][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2020.02.22-22.04.14:306][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2020.02.22-22.04.14:335][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2020.02.22-22.04.14:366][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2020.02.22-22.04.14:415][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2020.02.22-22.04.14:417][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2020.02.22-22.04.14:440][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2020.02.22-22.04.14:477][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2020.02.22-22.04.14:516][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2020.02.22-22.04.14:569][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2020.02.22-22.04.14:619][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2020.02.22-22.04.15:113][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2020.02.22-22.04.15:138][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2020.02.22-22.04.17:242][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2020.02.22-22.04.17:271][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2020.02.22-22.04.17:325][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2020.02.22-22.04.17:390][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Maps/Minimal_Default.umap"
+[2020.02.22-22.04.17:457][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2020.02.22-22.04.17:505][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Maps/StarterMap.umap"
+[2020.02.22-22.04.18:060][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2020.02.22-22.04.18:103][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2020.02.22-22.04.18:140][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2020.02.22-22.04.18:170][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2020.02.22-22.04.18:209][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2020.02.22-22.04.18:241][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2020.02.22-22.04.18:308][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2020.02.22-22.04.18:333][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2020.02.22-22.04.18:353][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2020.02.22-22.04.18:385][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2020.02.22-22.04.18:419][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2020.02.22-22.04.18:457][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2020.02.22-22.04.18:485][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2020.02.22-22.04.18:512][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2020.02.22-22.04.18:596][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2020.02.22-22.04.18:630][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2020.02.22-22.04.18:653][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2020.02.22-22.04.18:685][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2020.02.22-22.04.18:703][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Materials/M_Glass.uasset"
+[2020.02.22-22.04.18:728][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2020.02.22-22.04.18:756][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2020.02.22-22.04.18:776][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2020.02.22-22.04.18:802][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2020.02.22-22.04.18:830][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2020.02.22-22.04.18:866][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2020.02.22-22.04.18:885][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2020.02.22-22.04.18:907][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2020.02.22-22.04.18:941][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2020.02.22-22.04.18:985][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2020.02.22-22.04.19:025][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2020.02.22-22.04.19:091][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2020.02.22-22.04.19:136][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2020.02.22-22.04.19:161][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2020.02.22-22.04.19:189][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2020.02.22-22.04.19:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2020.02.22-22.04.19:271][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2020.02.22-22.04.19:312][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2020.02.22-22.04.19:337][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2020.02.22-22.04.19:385][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2020.02.22-22.04.19:422][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2020.02.22-22.04.19:464][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2020.02.22-22.04.19:508][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2020.02.22-22.04.19:590][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2020.02.22-22.04.19:704][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2020.02.22-22.04.19:763][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2020.02.22-22.04.19:790][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Particles/P_Explosion.uasset"
+[2020.02.22-22.04.19:841][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Particles/P_Fire.uasset"
+[2020.02.22-22.04.19:908][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Particles/P_Smoke.uasset"
+[2020.02.22-22.04.20:187][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Particles/P_Sparks.uasset"
+[2020.02.22-22.04.20:222][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2020.02.22-22.04.20:245][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2020.02.22-22.04.20:271][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2020.02.22-22.04.20:299][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2020.02.22-22.04.20:328][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2020.02.22-22.04.20:344][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2020.02.22-22.04.20:371][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2020.02.22-22.04.20:397][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2020.02.22-22.04.20:519][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2020.02.22-22.04.20:551][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2020.02.22-22.04.20:586][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2020.02.22-22.04.20:631][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Props/MaterialSphere.uasset"
+[2020.02.22-22.04.20:673][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Props/SM_Bush.uasset"
+[2020.02.22-22.04.20:715][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Props/SM_Chair.uasset"
+[2020.02.22-22.04.20:773][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2020.02.22-22.04.20:795][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Props/SM_Couch.uasset"
+[2020.02.22-22.04.20:826][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Props/SM_Door.uasset"
+[2020.02.22-22.04.20:860][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2020.02.22-22.04.20:965][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2020.02.22-22.04.21:326][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2020.02.22-22.04.21:422][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2020.02.22-22.04.21:538][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2020.02.22-22.04.21:769][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2020.02.22-22.04.21:816][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2020.02.22-22.04.21:861][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Props/SM_Rock.uasset"
+[2020.02.22-22.04.21:912][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Props/SM_Shelf.uasset"
+[2020.02.22-22.04.21:954][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Props/SM_Stairs.uasset"
+[2020.02.22-22.04.22:213][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Props/SM_Statue.uasset"
+[2020.02.22-22.04.22:363][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Props/SM_TableRound.uasset"
+[2020.02.22-22.04.22:450][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2020.02.22-22.04.22:536][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2020.02.22-22.04.22:790][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2020.02.22-22.04.22:867][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2020.02.22-22.04.22:914][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2020.02.22-22.04.22:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2020.02.22-22.04.23:178][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2020.02.22-22.04.23:236][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2020.02.22-22.04.23:307][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2020.02.22-22.04.23:357][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2020.02.22-22.04.23:416][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2020.02.22-22.04.23:556][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2020.02.22-22.04.23:593][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2020.02.22-22.04.23:674][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2020.02.22-22.04.23:935][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2020.02.22-22.04.24:135][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2020.02.22-22.04.24:218][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2020.02.22-22.04.24:372][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2020.02.22-22.04.24:465][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2020.02.22-22.04.24:712][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2020.02.22-22.04.24:757][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2020.02.22-22.04.24:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2020.02.22-22.04.24:865][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2020.02.22-22.04.24:924][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2020.02.22-22.04.25:122][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2020.02.22-22.04.25:171][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2020.02.22-22.04.25:263][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2020.02.22-22.04.25:423][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2020.02.22-22.04.25:562][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2020.02.22-22.04.25:663][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2020.02.22-22.04.25:729][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2020.02.22-22.04.25:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2020.02.22-22.04.26:477][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2020.02.22-22.04.26:726][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2020.02.22-22.04.26:989][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2020.02.22-22.04.27:088][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2020.02.22-22.04.27:710][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2020.02.22-22.04.28:302][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2020.02.22-22.04.28:464][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2020.02.22-22.04.28:895][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2020.02.22-22.04.29:106][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2020.02.22-22.04.29:372][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2020.02.22-22.04.30:014][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2020.02.22-22.04.30:172][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2020.02.22-22.04.30:351][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2020.02.22-22.04.30:584][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2020.02.22-22.04.30:658][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2020.02.22-22.04.30:725][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2020.02.22-22.04.30:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2020.02.22-22.04.31:064][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2020.02.22-22.04.31:122][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2020.02.22-22.04.31:203][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2020.02.22-22.04.31:317][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2020.02.22-22.04.31:972][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2020.02.22-22.04.32:070][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2020.02.22-22.04.32:949][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2020.02.22-22.04.33:380][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2020.02.22-22.04.33:598][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2020.02.22-22.04.34:667][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2020.02.22-22.04.35:294][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2020.02.22-22.04.35:485][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2020.02.22-22.04.35:723][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2020.02.22-22.04.36:005][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2020.02.22-22.04.36:169][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2020.02.22-22.04.36:840][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2020.02.22-22.04.37:240][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2020.02.22-22.04.37:653][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2020.02.22-22.04.37:776][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2020.02.22-22.04.37:910][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2020.02.22-22.04.37:945][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2020.02.22-22.04.38:251][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2020.02.22-22.04.38:308][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Door_M.uasset"
+[2020.02.22-22.04.38:390][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Door_N.uasset"
+[2020.02.22-22.04.38:619][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2020.02.22-22.04.38:771][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2020.02.22-22.04.38:833][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2020.02.22-22.04.39:047][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2020.02.22-22.04.39:251][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2020.02.22-22.04.39:345][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2020.02.22-22.04.39:609][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2020.02.22-22.04.39:873][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2020.02.22-22.04.41:319][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2020.02.22-22.04.42:030][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2020.02.22-22.04.42:314][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2020.02.22-22.04.43:344][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2020.02.22-22.04.43:958][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2020.02.22-22.04.44:086][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2020.02.22-22.04.44:579][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2020.02.22-22.04.45:333][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2020.02.22-22.04.46:265][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2020.02.22-22.04.46:918][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2020.02.22-22.04.47:091][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2020.02.22-22.04.47:236][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2020.02.22-22.04.47:740][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2020.02.22-22.04.48:190][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2020.02.22-22.04.48:412][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2020.02.22-22.04.48:697][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2020.02.22-22.04.49:557][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2020.02.22-22.04.49:724][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2020.02.22-22.04.50:641][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2020.02.22-22.04.51:353][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2020.02.22-22.04.51:826][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2020.02.22-22.04.51:980][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2020.02.22-22.04.52:674][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2020.02.22-22.04.52:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2020.02.22-22.04.53:796][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2020.02.22-22.04.54:009][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2020.02.22-22.04.54:793][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2020.02.22-22.04.55:194][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2020.02.22-22.04.55:280][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2020.02.22-22.04.55:378][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2020.02.22-22.04.55:517][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2020.02.22-22.04.55:865][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2020.02.22-22.04.55:948][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2020.02.22-22.04.56:011][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2020.02.22-22.04.56:052][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2020.02.22-22.04.56:446][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2020.02.22-22.04.56:709][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2020.02.22-22.04.56:885][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2020.02.22-22.04.56:963][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2020.02.22-22.04.57:029][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2020.02.22-22.04.57:126][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2020.02.22-22.04.57:471][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2020.02.22-22.04.57:564][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2020.02.22-22.04.57:678][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Water_M.uasset"
+[2020.02.22-22.04.57:735][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Water_N.uasset"
+[2020.02.22-22.04.58:087][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2020.02.22-22.04.58:261][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2020.02.22-22.04.58:704][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2020.02.22-22.04.58:886][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2020.02.22-22.04.59:516][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2020.02.22-22.05.02:131][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2020.02.22-22.05.02:333][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2020.02.22-22.05.02:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2020.02.22-22.05.03:389][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2020.02.22-22.05.03:955][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2020.02.22-22.05.04:095][  0]LogSavePackage: Moving '../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Saved/Floor_400x4006C9DA43B4215893400D1F4BA1786BFF1.tmp' to '../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2020.02.22-22.05.04:100][  0]LogFeaturePack: Warning: Inserted 2 feature packs
+[2020.02.22-22.05.04:101][  0]Cmd: MAP LOAD FILE="../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.22-22.05.04:102][  0]LightingResults: New page: Lighting Build
+[2020.02.22-22.05.04:244][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.02.22-22.05.04:244][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.22-22.05.04:244][  0]MapCheck: New page: Map Check
+[2020.02.22-22.05.04:244][  0]LightingResults: New page: Lighting Build
+[2020.02.22-22.05.04:267][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.02.22-22.05.04:677][  0]LogAIModule: Creating AISystem for world StartupMap
+[2020.02.22-22.05.04:700][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.22-22.05.04:723][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.02.22-22.05.04:723][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.22-22.05.04:723][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.088ms to complete.
+[2020.02.22-22.05.04:723][  0]LogFileHelpers: Loading map 'StartupMap' took 0.621
+[2020.02.22-22.05.05:354][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-22.05.05:360][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-22.05.05:367][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-22.05.05:372][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-22.05.05:443][  0]LogCollectionManager: Loaded 0 collections in 0.001683 seconds
+[2020.02.22-22.05.05:531][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/VRfromScratch/BowlingVR 4.24/Saved/Collections/' took 0.00s
+[2020.02.22-22.05.05:531][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/VRfromScratch/BowlingVR 4.24/Content/Developers/Ralphy/Collections/' took 0.00s
+[2020.02.22-22.05.05:531][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/VRfromScratch/BowlingVR 4.24/Content/Collections/' took 0.00s
+[2020.02.22-22.05.05:531][  0]LogContentBrowser: Native class hierarchy populated in 0.0075 seconds. Added 3017 classes and 720 folders.
+[2020.02.22-22.05.05:711][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.22-22.05.13:212][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.02.22-22.05.13:318][  0]LogSlate: Took 0.023744 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.22-22.05.13:359][  0]LogSlate: Took 0.038789 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.22-22.05.13:403][  0]LogSlate: Took 0.039958 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.22-22.05.13:808][  0]LogRenderer: Reallocating scene render targets to support 1068x576 Format 10 NumSamples 1 (Frame:1).
+[2020.02.22-22.05.14:099][  0]LogSlate: Took 0.109064 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.22-22.05.14:229][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.22-22.05.14:229][  0]LogLoad: (Engine Initialization) Total time: 72.71 seconds
+[2020.02.22-22.05.14:230][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.22-22.05.14:244][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2020.02.22-22.05.14:244][  0]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2020.02.22-22.05.14:348][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.22-22.05.19:385][577]LogFileCache: Retrieving MD5 hashes for directory 'D:/GitHub/VRfromScratch/BowlingVR 4.24/Content/' took 5.14s
+[2020.02.22-22.05.33:423][ 78]LogAssetRegistry: Asset discovery search completed in 87.1131 seconds
+[2020.02.22-22.05.33:426][ 78]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000010 seconds (updated 0 objects)
+[2020.02.22-22.05.48:971][803]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.22-22.05.51:189][803]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.02.22-22.05.51:189][803]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 512X512)
+[2020.02.22-22.05.51:189][803]LogStaticMesh: Building static mesh full_rough_map_v2_world...
+[2020.02.22-22.05.51:288][803]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 512X512)
+[2020.02.22-22.05.51:288][803]LogStaticMesh: Built static mesh [0.10s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_world.full_rough_map_v2_world
+[2020.02.22-22.05.51:307][803]LogStaticMesh: Building static mesh full_rough_map_v2_wall...
+[2020.02.22-22.05.51:313][803]LogStaticMesh: Built static mesh [0.01s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_wall.full_rough_map_v2_wall
+[2020.02.22-22.05.51:314][803]LogStaticMesh: Building static mesh full_rough_map_v2_ur_to_cr_shortcut...
+[2020.02.22-22.05.51:315][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_ur_to_cr_shortcut.full_rough_map_v2_ur_to_cr_shortcut
+[2020.02.22-22.05.51:320][803]LogMaterial: Display: Missing cached shader map for material lambert3, compiling. 
+[2020.02.22-22.05.51:397][803]LogStaticMesh: Building static mesh full_rough_map_v2_upper_ruins_path...
+[2020.02.22-22.05.51:535][803]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2020.02.22-22.05.51:535][803]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2020.02.22-22.05.51:535][803]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.02.22-22.05.51:535][803]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 128X128)
+[2020.02.22-22.05.51:535][803]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 128X128)
+[2020.02.22-22.05.51:535][803]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 128X128)
+[2020.02.22-22.05.51:535][803]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 128X128)
+[2020.02.22-22.05.51:535][803]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 128X128)
+[2020.02.22-22.05.51:535][803]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 64X64)
+[2020.02.22-22.05.51:535][803]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 512X512)
+[2020.02.22-22.05.51:535][803]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.02.22-22.05.51:535][803]LogStaticMesh: Built static mesh [0.14s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_upper_ruins_path.full_rough_map_v2_upper_ruins_path
+[2020.02.22-22.05.51:556][803]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 512X512)
+[2020.02.22-22.05.51:556][803]LogMaterial: Display: Missing cached shader map for material lambert2_ncl1_1, compiling. 
+[2020.02.22-22.05.51:570][803]LogStaticMesh: Building static mesh full_rough_map_v2_upper_ruins_ground...
+[2020.02.22-22.05.51:738][803]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 128X128)
+[2020.02.22-22.05.51:738][803]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 128X128)
+[2020.02.22-22.05.51:738][803]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 128X128)
+[2020.02.22-22.05.51:738][803]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 128X128)
+[2020.02.22-22.05.51:738][803]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 128X128)
+[2020.02.22-22.05.51:738][803]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 64X64)
+[2020.02.22-22.05.51:738][803]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X128)
+[2020.02.22-22.05.51:738][803]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 1024X64)
+[2020.02.22-22.05.51:738][803]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 32X32)
+[2020.02.22-22.05.51:738][803]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 64X64)
+[2020.02.22-22.05.51:738][803]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 1024X128)
+[2020.02.22-22.05.51:738][803]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 128X64)
+[2020.02.22-22.05.51:738][803]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 64X64)
+[2020.02.22-22.05.51:738][803]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 64X64)
+[2020.02.22-22.05.51:738][803]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 64X64)
+[2020.02.22-22.05.51:738][803]LogStaticMesh: Built static mesh [0.17s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_upper_ruins_ground.full_rough_map_v2_upper_ruins_ground
+[2020.02.22-22.05.51:765][803]LogStaticMesh: Building static mesh full_rough_map_v2_tree...
+[2020.02.22-22.05.51:767][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_tree.full_rough_map_v2_tree
+[2020.02.22-22.05.51:768][803]LogStaticMesh: Building static mesh full_rough_map_v2_stairs_todesert...
+[2020.02.22-22.05.51:786][803]LogStaticMesh: Built static mesh [0.02s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_stairs_todesert.full_rough_map_v2_stairs_todesert
+[2020.02.22-22.05.51:787][803]LogStaticMesh: Building static mesh full_rough_map_v2_roads_paths...
+[2020.02.22-22.05.52:374][803]LogStaticMesh: Built static mesh [0.59s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_roads_paths.full_rough_map_v2_roads_paths
+[2020.02.22-22.05.52:412][803]LogStaticMesh: Building static mesh full_rough_map_v2_pSphere1...
+[2020.02.22-22.05.52:420][803]LogStaticMesh: Built static mesh [0.01s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_pSphere1.full_rough_map_v2_pSphere1
+[2020.02.22-22.05.52:422][803]LogStaticMesh: Building static mesh full_rough_map_v2_pPlane1...
+[2020.02.22-22.05.52:438][803]LogStaticMesh: Built static mesh [0.02s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_pPlane1.full_rough_map_v2_pPlane1
+[2020.02.22-22.05.52:441][803]LogStaticMesh: Building static mesh full_rough_map_v2_polySurface32...
+[2020.02.22-22.05.52:457][803]LogStaticMesh: Built static mesh [0.02s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_polySurface32.full_rough_map_v2_polySurface32
+[2020.02.22-22.05.52:459][803]LogStaticMesh: Building static mesh full_rough_map_v2_player_size_ref...
+[2020.02.22-22.05.52:469][803]LogStaticMesh: Built static mesh [0.01s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_player_size_ref.full_rough_map_v2_player_size_ref
+[2020.02.22-22.05.52:470][803]LogStaticMesh: Building static mesh full_rough_map_v2_player_ref...
+[2020.02.22-22.05.52:480][803]LogStaticMesh: Built static mesh [0.01s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_player_ref.full_rough_map_v2_player_ref
+[2020.02.22-22.05.52:482][803]LogStaticMesh: Building static mesh full_rough_map_v2_platform...
+[2020.02.22-22.05.52:483][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_platform.full_rough_map_v2_platform
+[2020.02.22-22.05.52:483][803]LogStaticMesh: Building static mesh full_rough_map_v2_houses...
+[2020.02.22-22.05.52:487][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_houses.full_rough_map_v2_houses
+[2020.02.22-22.05.52:488][803]LogStaticMesh: Building static mesh full_rough_map_v2_ground_city...
+[2020.02.22-22.05.52:623][803]LogStaticMesh: Built static mesh [0.14s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_ground_city.full_rough_map_v2_ground_city
+[2020.02.22-22.05.52:649][803]LogStaticMesh: Building static mesh full_rough_map_v2_gate_to_upper_city...
+[2020.02.22-22.05.52:650][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_gate_to_upper_city.full_rough_map_v2_gate_to_upper_city
+[2020.02.22-22.05.52:651][803]LogStaticMesh: Building static mesh full_rough_map_v2_gate...
+[2020.02.22-22.05.52:652][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_gate.full_rough_map_v2_gate
+[2020.02.22-22.05.52:652][803]LogStaticMesh: Building static mesh full_rough_map_v2_fence10x10_9...
+[2020.02.22-22.05.52:655][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_fence10x10_9.full_rough_map_v2_fence10x10_9
+[2020.02.22-22.05.52:657][803]LogStaticMesh: Building static mesh full_rough_map_v2_fence10x10_8...
+[2020.02.22-22.05.52:660][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_fence10x10_8.full_rough_map_v2_fence10x10_8
+[2020.02.22-22.05.52:661][803]LogStaticMesh: Building static mesh full_rough_map_v2_fence10x10_7...
+[2020.02.22-22.05.52:665][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_fence10x10_7.full_rough_map_v2_fence10x10_7
+[2020.02.22-22.05.52:666][803]LogStaticMesh: Building static mesh full_rough_map_v2_fence10x10_6...
+[2020.02.22-22.05.52:670][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_fence10x10_6.full_rough_map_v2_fence10x10_6
+[2020.02.22-22.05.52:671][803]LogStaticMesh: Building static mesh full_rough_map_v2_fence10x10_52...
+[2020.02.22-22.05.52:674][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_fence10x10_52.full_rough_map_v2_fence10x10_52
+[2020.02.22-22.05.52:675][803]LogStaticMesh: Building static mesh full_rough_map_v2_fence10x10_51...
+[2020.02.22-22.05.52:678][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_fence10x10_51.full_rough_map_v2_fence10x10_51
+[2020.02.22-22.05.52:679][803]LogStaticMesh: Building static mesh full_rough_map_v2_fence10x10_50...
+[2020.02.22-22.05.52:683][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_fence10x10_50.full_rough_map_v2_fence10x10_50
+[2020.02.22-22.05.52:684][803]LogStaticMesh: Building static mesh full_rough_map_v2_fence10x10_5...
+[2020.02.22-22.05.52:687][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_fence10x10_5.full_rough_map_v2_fence10x10_5
+[2020.02.22-22.05.52:688][803]LogStaticMesh: Building static mesh full_rough_map_v2_fence10x10_49...
+[2020.02.22-22.05.52:691][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_fence10x10_49.full_rough_map_v2_fence10x10_49
+[2020.02.22-22.05.52:692][803]LogStaticMesh: Building static mesh full_rough_map_v2_fence10x10_48...
+[2020.02.22-22.05.52:696][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_fence10x10_48.full_rough_map_v2_fence10x10_48
+[2020.02.22-22.05.52:697][803]LogStaticMesh: Building static mesh full_rough_map_v2_fence10x10_47...
+[2020.02.22-22.05.52:700][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_fence10x10_47.full_rough_map_v2_fence10x10_47
+[2020.02.22-22.05.52:701][803]LogStaticMesh: Building static mesh full_rough_map_v2_fence10x10_46...
+[2020.02.22-22.05.52:704][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_fence10x10_46.full_rough_map_v2_fence10x10_46
+[2020.02.22-22.05.52:706][803]LogStaticMesh: Building static mesh full_rough_map_v2_fence10x10_45...
+[2020.02.22-22.05.52:709][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_fence10x10_45.full_rough_map_v2_fence10x10_45
+[2020.02.22-22.05.52:710][803]LogStaticMesh: Building static mesh full_rough_map_v2_fence10x10_44...
+[2020.02.22-22.05.52:714][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_fence10x10_44.full_rough_map_v2_fence10x10_44
+[2020.02.22-22.05.52:714][803]LogStaticMesh: Building static mesh full_rough_map_v2_fence10x10_43...
+[2020.02.22-22.05.52:718][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_fence10x10_43.full_rough_map_v2_fence10x10_43
+[2020.02.22-22.05.52:719][803]LogStaticMesh: Building static mesh full_rough_map_v2_fence10x10_42...
+[2020.02.22-22.05.52:728][803]LogStaticMesh: Built static mesh [0.01s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_fence10x10_42.full_rough_map_v2_fence10x10_42
+[2020.02.22-22.05.52:729][803]LogStaticMesh: Building static mesh full_rough_map_v2_fence10x10_41...
+[2020.02.22-22.05.52:734][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_fence10x10_41.full_rough_map_v2_fence10x10_41
+[2020.02.22-22.05.52:735][803]LogStaticMesh: Building static mesh full_rough_map_v2_fence10x10_40...
+[2020.02.22-22.05.52:739][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_fence10x10_40.full_rough_map_v2_fence10x10_40
+[2020.02.22-22.05.52:740][803]LogStaticMesh: Building static mesh full_rough_map_v2_fence10x10_4...
+[2020.02.22-22.05.52:744][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_fence10x10_4.full_rough_map_v2_fence10x10_4
+[2020.02.22-22.05.52:745][803]LogStaticMesh: Building static mesh full_rough_map_v2_fence10x10_39...
+[2020.02.22-22.05.52:748][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_fence10x10_39.full_rough_map_v2_fence10x10_39
+[2020.02.22-22.05.52:749][803]LogStaticMesh: Building static mesh full_rough_map_v2_fence10x10_38...
+[2020.02.22-22.05.52:753][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_fence10x10_38.full_rough_map_v2_fence10x10_38
+[2020.02.22-22.05.52:754][803]LogStaticMesh: Building static mesh full_rough_map_v2_fence10x10_37...
+[2020.02.22-22.05.52:758][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_fence10x10_37.full_rough_map_v2_fence10x10_37
+[2020.02.22-22.05.52:759][803]LogStaticMesh: Building static mesh full_rough_map_v2_fence10x10_36...
+[2020.02.22-22.05.52:762][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_fence10x10_36.full_rough_map_v2_fence10x10_36
+[2020.02.22-22.05.52:764][803]LogStaticMesh: Building static mesh full_rough_map_v2_fence10x10_35...
+[2020.02.22-22.05.52:767][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_fence10x10_35.full_rough_map_v2_fence10x10_35
+[2020.02.22-22.05.52:768][803]LogStaticMesh: Building static mesh full_rough_map_v2_fence10x10_34...
+[2020.02.22-22.05.52:771][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_fence10x10_34.full_rough_map_v2_fence10x10_34
+[2020.02.22-22.05.52:773][803]LogStaticMesh: Building static mesh full_rough_map_v2_fence10x10_33...
+[2020.02.22-22.05.52:776][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_fence10x10_33.full_rough_map_v2_fence10x10_33
+[2020.02.22-22.05.52:777][803]LogStaticMesh: Building static mesh full_rough_map_v2_fence10x10_32...
+[2020.02.22-22.05.52:781][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_fence10x10_32.full_rough_map_v2_fence10x10_32
+[2020.02.22-22.05.52:783][803]LogStaticMesh: Building static mesh full_rough_map_v2_fence10x10_31...
+[2020.02.22-22.05.52:786][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_fence10x10_31.full_rough_map_v2_fence10x10_31
+[2020.02.22-22.05.52:787][803]LogStaticMesh: Building static mesh full_rough_map_v2_fence10x10_30...
+[2020.02.22-22.05.52:791][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_fence10x10_30.full_rough_map_v2_fence10x10_30
+[2020.02.22-22.05.52:791][803]LogStaticMesh: Building static mesh full_rough_map_v2_fence10x10_3...
+[2020.02.22-22.05.52:795][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_fence10x10_3.full_rough_map_v2_fence10x10_3
+[2020.02.22-22.05.52:796][803]LogStaticMesh: Building static mesh full_rough_map_v2_fence10x10_29...
+[2020.02.22-22.05.52:800][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_fence10x10_29.full_rough_map_v2_fence10x10_29
+[2020.02.22-22.05.52:801][803]LogStaticMesh: Building static mesh full_rough_map_v2_fence10x10_28...
+[2020.02.22-22.05.52:804][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_fence10x10_28.full_rough_map_v2_fence10x10_28
+[2020.02.22-22.05.52:805][803]LogStaticMesh: Building static mesh full_rough_map_v2_fence10x10_27...
+[2020.02.22-22.05.52:808][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_fence10x10_27.full_rough_map_v2_fence10x10_27
+[2020.02.22-22.05.52:810][803]LogStaticMesh: Building static mesh full_rough_map_v2_fence10x10_26...
+[2020.02.22-22.05.52:814][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_fence10x10_26.full_rough_map_v2_fence10x10_26
+[2020.02.22-22.05.52:815][803]LogStaticMesh: Building static mesh full_rough_map_v2_fence10x10_25...
+[2020.02.22-22.05.52:818][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_fence10x10_25.full_rough_map_v2_fence10x10_25
+[2020.02.22-22.05.52:819][803]LogStaticMesh: Building static mesh full_rough_map_v2_fence10x10_24...
+[2020.02.22-22.05.52:822][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_fence10x10_24.full_rough_map_v2_fence10x10_24
+[2020.02.22-22.05.52:823][803]LogStaticMesh: Building static mesh full_rough_map_v2_fence10x10_23...
+[2020.02.22-22.05.52:827][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_fence10x10_23.full_rough_map_v2_fence10x10_23
+[2020.02.22-22.05.52:829][803]LogStaticMesh: Building static mesh full_rough_map_v2_fence10x10_22...
+[2020.02.22-22.05.52:853][803]LogStaticMesh: Built static mesh [0.02s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_fence10x10_22.full_rough_map_v2_fence10x10_22
+[2020.02.22-22.05.52:854][803]LogStaticMesh: Building static mesh full_rough_map_v2_fence10x10_21...
+[2020.02.22-22.05.52:857][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_fence10x10_21.full_rough_map_v2_fence10x10_21
+[2020.02.22-22.05.52:858][803]LogStaticMesh: Building static mesh full_rough_map_v2_fence10x10_20...
+[2020.02.22-22.05.52:862][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_fence10x10_20.full_rough_map_v2_fence10x10_20
+[2020.02.22-22.05.52:863][803]LogStaticMesh: Building static mesh full_rough_map_v2_fence10x10_2...
+[2020.02.22-22.05.52:866][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_fence10x10_2.full_rough_map_v2_fence10x10_2
+[2020.02.22-22.05.52:867][803]LogStaticMesh: Building static mesh full_rough_map_v2_fence10x10_19...
+[2020.02.22-22.05.52:871][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_fence10x10_19.full_rough_map_v2_fence10x10_19
+[2020.02.22-22.05.52:872][803]LogStaticMesh: Building static mesh full_rough_map_v2_fence10x10_18...
+[2020.02.22-22.05.52:876][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_fence10x10_18.full_rough_map_v2_fence10x10_18
+[2020.02.22-22.05.52:877][803]LogStaticMesh: Building static mesh full_rough_map_v2_fence10x10_17...
+[2020.02.22-22.05.52:880][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_fence10x10_17.full_rough_map_v2_fence10x10_17
+[2020.02.22-22.05.52:881][803]LogStaticMesh: Building static mesh full_rough_map_v2_fence10x10_16...
+[2020.02.22-22.05.52:885][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_fence10x10_16.full_rough_map_v2_fence10x10_16
+[2020.02.22-22.05.52:885][803]LogStaticMesh: Building static mesh full_rough_map_v2_fence10x10_15...
+[2020.02.22-22.05.52:889][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_fence10x10_15.full_rough_map_v2_fence10x10_15
+[2020.02.22-22.05.52:890][803]LogStaticMesh: Building static mesh full_rough_map_v2_fence10x10_14...
+[2020.02.22-22.05.52:893][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_fence10x10_14.full_rough_map_v2_fence10x10_14
+[2020.02.22-22.05.52:894][803]LogStaticMesh: Building static mesh full_rough_map_v2_fence10x10_13...
+[2020.02.22-22.05.52:898][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_fence10x10_13.full_rough_map_v2_fence10x10_13
+[2020.02.22-22.05.52:899][803]LogStaticMesh: Building static mesh full_rough_map_v2_fence10x10_12...
+[2020.02.22-22.05.52:902][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_fence10x10_12.full_rough_map_v2_fence10x10_12
+[2020.02.22-22.05.52:903][803]LogStaticMesh: Building static mesh full_rough_map_v2_church...
+[2020.02.22-22.05.52:905][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_church.full_rough_map_v2_church
+[2020.02.22-22.05.52:924][803]LogStaticMesh: Building static mesh full_rough_map_v2_castle...
+[2020.02.22-22.05.52:926][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_castle.full_rough_map_v2_castle
+[2020.02.22-22.05.52:931][803]LogMaterial: Display: Missing cached shader map for material lambert5, compiling. 
+[2020.02.22-22.05.52:945][803]LogStaticMesh: Building static mesh full_rough_map_v2_castle_ground...
+[2020.02.22-22.05.53:140][803]LogStaticMesh: Built static mesh [0.19s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_castle_ground.full_rough_map_v2_castle_ground
+[2020.02.22-22.05.53:187][803]LogMaterial: Display: Missing cached shader map for material lambert4, compiling. 
+[2020.02.22-22.05.53:208][803]LogStaticMesh: Building static mesh full_rough_map_v2_fence10x10_11...
+[2020.02.22-22.05.53:212][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_fence10x10_11.full_rough_map_v2_fence10x10_11
+[2020.02.22-22.05.53:213][803]LogStaticMesh: Building static mesh full_rough_map_v2_fence10x10_10...
+[2020.02.22-22.05.53:216][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_fence10x10_10.full_rough_map_v2_fence10x10_10
+[2020.02.22-22.05.53:222][803]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2020.02.22-22.05.53:237][803]LogStaticMesh: Building static mesh full_rough_map_v2_door...
+[2020.02.22-22.05.53:238][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_door.full_rough_map_v2_door
+[2020.02.22-22.05.53:238][803]LogStaticMesh: Building static mesh full_rough_map_v2_church_stairs...
+[2020.02.22-22.05.53:329][803]LogStaticMesh: Built static mesh [0.09s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_church_stairs.full_rough_map_v2_church_stairs
+[2020.02.22-22.05.53:339][803]LogMaterial: Display: Missing cached shader map for material fence, compiling. 
+[2020.02.22-22.05.53:376][803]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.02.22-22.05.53:392][803]LogStaticMesh: Building static mesh full_rough_map_v2_fence10x10_1...
+[2020.02.22-22.05.53:396][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_fence10x10_1.full_rough_map_v2_fence10x10_1
+[2020.02.22-22.05.53:398][803]LogStaticMesh: Building static mesh full_rough_map_v2_door1...
+[2020.02.22-22.05.53:398][803]LogStaticMesh: Built static mesh [0.00s] /Game/Areiazo/FBX_Assets/full_rough_map_v2_door1.full_rough_map_v2_door1
+[2020.02.22-22.05.53:409][803]LogMaterial: Display: Missing cached shader map for material M_SplineArcMat, compiling. 
+[2020.02.22-22.05.53:434][803]LogStaticMesh: Building static mesh BeamMesh...
+[2020.02.22-22.05.53:437][803]LogStaticMesh: Built static mesh [0.00s] /Game/VirtualReality/Meshes/BeamMesh.BeamMesh
+[2020.02.22-22.05.53:517][803]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualReality/Mannequin/Animations/MannequinHand_Right_Open.MannequinHand_Right_Open
+[2020.02.22-22.05.53:532][803]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualReality/Mannequin/Animations/MannequinHand_Right_Open.MannequinHand_Right_Open) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.22-22.05.53:609][803]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualReality/Mannequin/Animations/MannequinHand_Right_Grab.MannequinHand_Right_Grab
+[2020.02.22-22.05.53:609][803]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualReality/Mannequin/Animations/MannequinHand_Right_Grab.MannequinHand_Right_Grab) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.22-22.05.53:610][803]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualReality/Mannequin/Animations/MannequinHand_Right_CanGrab.MannequinHand_Right_CanGrab
+[2020.02.22-22.05.53:610][803]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualReality/Mannequin/Animations/MannequinHand_Right_CanGrab.MannequinHand_Right_CanGrab) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.22-22.05.53:634][803]LogMaterial: Display: Missing cached shader map for material M_Sky_Panning_Clouds2, compiling. 
+[2020.02.22-22.05.53:813][803]LogAIModule: Creating AISystem for world BlockoutV3
+[2020.02.22-22.05.54:490][803]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Areiazo/Levels/BlockoutV3.BlockoutV3
+[2020.02.22-22.05.54:586][803]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.02.22-22.05.54:588][803]Cmd: MAP LOAD FILE="../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/Areiazo/Levels/BlockoutV3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.22-22.05.54:589][803]LightingResults: New page: Lighting Build
+[2020.02.22-22.05.54:589][803]LoadErrors: New page: Loading map: BlockoutV3.umap
+[2020.02.22-22.05.54:624][803]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.22-22.05.54:624][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.22-22.05.54:644][803]MapCheck: New page: Map Check
+[2020.02.22-22.05.54:644][803]LightingResults: New page: Lighting Build
+[2020.02.22-22.05.54:673][803]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.02.22-22.05.54:961][803]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.22-22.05.55:226][803]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.02.22-22.05.55:274][803]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.22-22.05.55:274][803]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.084ms to complete.
+[2020.02.22-22.05.55:274][803]LogFileHelpers: Loading map 'BlockoutV3' took 0.687
+[2020.02.22-22.05.59:353][ 34]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 170
+[2020.02.22-22.06.03:080][257]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 160
+[2020.02.22-22.06.03:407][283]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 150
+[2020.02.22-22.06.08:957][614]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 140
+[2020.02.22-22.06.11:741][773]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 130
+[2020.02.22-22.06.13:403][893]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 120
+[2020.02.22-22.06.20:615][261]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 110
+[2020.02.22-22.06.20:898][268]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 100
+[2020.02.22-22.06.24:193][351]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 90
+[2020.02.22-22.06.26:915][425]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 80
+[2020.02.22-22.06.28:433][485]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 70
+[2020.02.22-22.06.31:861][577]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 60
+[2020.02.22-22.06.33:063][604]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 50
+[2020.02.22-22.06.35:921][675]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 40
+[2020.02.22-22.06.38:222][738]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 30
+[2020.02.22-22.06.39:879][790]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2020.02.22-22.06.42:365][871]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2020.02.22-22.06.43:319][891]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2020.02.22-22.06.43:804][915]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.02.22-22.06.44:226][927]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2020.02.22-22.06.44:640][939]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.02.22-22.07.04:740][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Areiazo/Levels/BlockoutV3" FILE="../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/Areiazo/Levels/BlockoutV3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.22-22.07.04:765][340]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.02.22-22.07.06:185][340]LogSavePackage: Moving '../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Saved/BlockoutV393F6C6C54540D6952DDACB890B038BB6.tmp' to '../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/Areiazo/Levels/BlockoutV3.umap'
+[2020.02.22-22.07.06:213][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Areiazo/Levels/BlockoutV3_BuiltData" FILE="../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/Areiazo/Levels/BlockoutV3_BuiltData.uasset" SILENT=true
+[2020.02.22-22.07.06:469][340]LogSavePackage: Moving '../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Saved/BlockoutV3_BuiltData0502E9F348EF12554A4EE19EE95F5DD9.tmp' to '../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/Areiazo/Levels/BlockoutV3_BuiltData.uasset'
+[2020.02.22-22.07.06:484][340]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.22-22.07.06:485][340]LogContentValidation: Display: Validating World /Game/Areiazo/Levels/BlockoutV3.BlockoutV3
+[2020.02.22-22.07.06:485][340]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Areiazo/Levels/BlockoutV3_BuiltData.BlockoutV3_BuiltData
