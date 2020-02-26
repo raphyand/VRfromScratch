@@ -1,0 +1,1194 @@
+﻿Log file open, 02/22/20 17:25:48
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BowlingVR
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.082354
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11100242
+LogInit: Engine Version: 4.24.2-11100242+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-4690K CPU @ 3.50GHz, GPU: NVIDIA GeForce GTX 1660 Ti
+LogInit: Compiled (64-bit): Jan 24 2020 02:05:53
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line:  -EpicPortal -epicusername=AzariasThree -epicuserid=a6dc07ad01fd4632909d60023a1730c4 -epiclocale=en
+LogInit: Base Directory: D:/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.23-01.25.48:773][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.23-01.25.48:773][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.23-01.25.48:773][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/GitHub/VRfromScratch/BowlingVR 4.24/Saved/Config/Windows/Engine.ini]
+[2020.02.23-01.25.48:773][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.23-01.25.48:773][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.02.23-01.25.48:773][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2020.02.23-01.25.48:773][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2020.02.23-01.25.48:773][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.02.23-01.25.48:773][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2020.02.23-01.25.48:773][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2020.02.23-01.25.48:773][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2020.02.23-01.25.48:773][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/GitHub/VRfromScratch/BowlingVR 4.24/Saved/Config/Windows/Engine.ini]
+[2020.02.23-01.25.48:773][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GitHub/VRfromScratch/BowlingVR 4.24/Saved/Config/Windows/Engine.ini]
+[2020.02.23-01.25.48:774][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.23-01.25.48:774][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.23-01.25.48:774][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.23-01.25.48:774][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.23-01.25.48:774][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.23-01.25.48:774][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.23-01.25.48:774][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.23-01.25.48:774][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.23-01.25.48:774][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.23-01.25.48:774][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.23-01.25.48:774][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.23-01.25.48:774][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.23-01.25.48:774][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.23-01.25.48:774][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.02.23-01.25.48:774][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/GitHub/VRfromScratch/BowlingVR 4.24/Saved/Config/Windows/Engine.ini]
+[2020.02.23-01.25.48:774][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.23-01.25.48:774][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.23-01.25.48:774][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.23-01.25.48:774][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.23-01.25.48:774][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.23-01.25.48:774][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.23-01.25.48:774][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.02.23-01.25.48:774][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.23-01.25.48:774][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.23-01.25.48:774][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.23-01.25.48:774][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.23-01.25.48:774][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.23-01.25.48:774][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.23-01.25.48:774][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/GitHub/VRfromScratch/BowlingVR 4.24/Saved/Config/Windows/Engine.ini]
+[2020.02.23-01.25.48:774][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/GitHub/VRfromScratch/BowlingVR 4.24/Saved/Config/Windows/Engine.ini]
+[2020.02.23-01.25.48:780][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GitHub/VRfromScratch/BowlingVR 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GitHub/VRfromScratch/BowlingVR 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GitHub/VRfromScratch/BowlingVR 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GitHub/VRfromScratch/BowlingVR 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GitHub/VRfromScratch/BowlingVR 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GitHub/VRfromScratch/BowlingVR 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.23-01.25.48:780][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.23-01.25.48:781][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.02.23-01.25.48:781][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.02.23-01.25.48:781][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.02.23-01.25.48:781][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.02.23-01.25.48:781][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.02.23-01.25.48:781][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.02.23-01.25.48:781][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.02.23-01.25.48:781][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.02.23-01.25.48:781][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.02.23-01.25.48:781][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.02.23-01.25.48:781][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.02.23-01.25.48:781][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GitHub/VRfromScratch/BowlingVR 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-01.25.48:781][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.23-01.25.48:781][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.23-01.25.48:781][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GitHub/VRfromScratch/BowlingVR 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-01.25.48:781][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.02.23-01.25.48:781][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.02.23-01.25.48:781][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.02.23-01.25.48:781][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.23-01.25.48:781][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.23-01.25.48:783][  0]LogHAL: Display: Platform has ~ 16 GB [16981479424 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.23-01.25.48:783][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.23-01.25.48:783][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GitHub/VRfromScratch/BowlingVR 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-01.25.48:783][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.23-01.25.48:783][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.23-01.25.48:783][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GitHub/VRfromScratch/BowlingVR 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-01.25.48:783][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.23-01.25.48:783][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GitHub/VRfromScratch/BowlingVR 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-01.25.48:783][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.23-01.25.48:783][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.23-01.25.48:783][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.23-01.25.48:783][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GitHub/VRfromScratch/BowlingVR 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GitHub/VRfromScratch/BowlingVR 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GitHub/VRfromScratch/BowlingVR 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GitHub/VRfromScratch/BowlingVR 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.23-01.25.48:784][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.23-01.25.48:785][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GitHub/VRfromScratch/BowlingVR 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-01.25.48:785][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.02.23-01.25.48:785][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.02.23-01.25.48:785][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.02.23-01.25.48:785][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.23-01.25.48:785][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.23-01.25.48:785][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.02.23-01.25.48:785][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GitHub/VRfromScratch/BowlingVR 4.24/Saved/Config/Windows/Engine.ini]
+[2020.02.23-01.25.48:785][  0]LogInit: Computer: XENOSEMPIRE
+[2020.02.23-01.25.48:785][  0]LogInit: User: Ralphy
+[2020.02.23-01.25.48:785][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.02.23-01.25.48:785][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.02.23-01.25.48:785][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2020.02.23-01.25.48:785][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.23-01.25.48:785][  0]LogMemory: Process Physical Memory: 110.51 MB used, 110.51 MB peak
+[2020.02.23-01.25.48:785][  0]LogMemory: Process Virtual Memory: 106.62 MB used, 106.62 MB peak
+[2020.02.23-01.25.48:785][  0]LogMemory: Physical Memory: 13572.67 MB used,  2622.13 MB free, 16194.80 MB total
+[2020.02.23-01.25.48:785][  0]LogMemory: Virtual Memory: 5167.67 MB used,  134212560.00 MB free, 134217728.00 MB total
+[2020.02.23-01.25.48:788][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.02.23-01.25.48:805][  0]LogInit: Using OS detected language (en-US).
+[2020.02.23-01.25.48:805][  0]LogInit: Using OS detected locale (en-US).
+[2020.02.23-01.25.48:806][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.02.23-01.25.49:008][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.23-01.25.49:135][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.23-01.25.49:136][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.23-01.25.49:336][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.02.23-01.25.49:336][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.02.23-01.25.49:336][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.23-01.25.49:404][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1660 Ti' (Feature Level 11_0)
+[2020.02.23-01.25.49:404][  0]LogD3D11RHI:       5991/0/8097 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.02.23-01.25.49:410][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2020.02.23-01.25.49:410][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.02.23-01.25.49:412][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.23-01.25.49:412][  0]LogD3D11RHI:       0/0/8097 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.23-01.25.49:412][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.23-01.25.49:421][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.23-01.25.49:421][  0]LogD3D11RHI:     GPU DeviceId: 0x2182 (for the marketing name, search the web for "GPU Device Id")
+[2020.02.23-01.25.49:421][  0]LogWindows: EnumDisplayDevices:
+[2020.02.23-01.25.49:421][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1660 Ti' (P:1 D:1)
+[2020.02.23-01.25.49:421][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2020.02.23-01.25.49:422][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2020.02.23-01.25.49:422][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2020.02.23-01.25.49:422][  0]LogWindows:    4. 'Intel(R) HD Graphics 4600' (P:0 D:1)
+[2020.02.23-01.25.49:422][  0]LogWindows:    5. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2020.02.23-01.25.49:422][  0]LogWindows:    6. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2020.02.23-01.25.49:422][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.02.23-01.25.49:422][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1660 Ti
+[2020.02.23-01.25.49:423][  0]LogD3D11RHI:   Driver Version: 442.19 (internal:26.21.14.4219, unified:442.19)
+[2020.02.23-01.25.49:423][  0]LogD3D11RHI:      Driver Date: 1-29-2020
+[2020.02.23-01.25.49:423][  0]LogRHI: Texture pool is 4193 MB (70% of 5991 MB)
+[2020.02.23-01.25.49:485][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.02.23-01.25.49:485][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.23-01.25.49:513][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.02.23-01.25.49:906][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.02.23-01.25.49:944][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.02.23-01.25.49:944][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.02.23-01.25.49:944][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.02.23-01.25.49:944][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.02.23-01.25.49:944][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.02.23-01.25.49:944][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.02.23-01.25.49:944][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.02.23-01.25.49:944][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.02.23-01.25.49:944][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.02.23-01.25.49:944][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.02.23-01.25.49:944][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.02.23-01.25.49:944][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.02.23-01.25.49:944][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.02.23-01.25.49:944][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.02.23-01.25.49:944][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.02.23-01.25.49:945][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.02.23-01.25.49:945][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.02.23-01.25.49:945][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.02.23-01.25.49:968][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.02.23-01.25.49:968][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.02.23-01.25.49:974][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.02.23-01.25.49:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.02.23-01.25.49:988][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.02.23-01.25.49:995][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.02.23-01.25.50:002][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.02.23-01.25.50:009][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.02.23-01.25.50:037][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.02.23-01.25.50:037][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.02.23-01.25.50:056][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.02.23-01.25.50:056][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.02.23-01.25.50:064][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.02.23-01.25.50:072][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.02.23-01.25.50:080][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.02.23-01.25.50:087][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.02.23-01.25.50:088][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.23-01.25.50:091][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.02.23-01.25.50:116][  0]LogShaderCompilers: Guid format shader working directory is -31 characters bigger than the processId version (../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Intermediate/Shaders/WorkingDirectory/21664/).
+[2020.02.23-01.25.50:116][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'D:/Temp/UnrealShaderWorkingDir/D1157C90441B3171C4E50D9E2C73B5E8/'.
+[2020.02.23-01.25.50:117][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.02.23-01.25.50:117][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.02.23-01.25.50:117][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.23-01.25.50:915][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.23-01.25.51:002][  0]LogDerivedDataCache: Loaded boot cache 0.09s 103MB C:/Users/Ralphy/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.02.23-01.25.51:002][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Ralphy/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.02.23-01.25.51:002][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../GitHub/VRfromScratch/BowlingVR 4.24/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.23-01.25.51:002][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.23-01.25.51:002][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../GitHub/VRfromScratch/BowlingVR 4.24/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.23-01.25.51:002][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.23-01.25.51:012][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.23-01.25.51:012][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.23-01.25.51:012][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.02.23-01.25.51:013][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Ralphy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.23-01.25.51:013][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.23-01.25.51:013][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.23-01.25.51:327][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.23-01.25.51:329][  0]LogSlate: Using FreeType 2.10.0
+[2020.02.23-01.25.51:330][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.23-01.25.51:394][  0]LogAssetRegistry: FAssetRegistry took 0.0034 seconds to start up
+[2020.02.23-01.26.02:993][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.23-01.26.03:153][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.23-01.26.03:153][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.02.23-01.26.03:153][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.23-01.26.03:153][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.02.23-01.26.03:153][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.02.23-01.26.03:168][  0]LogNetVersion: BowlingVR 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 3455478698)
+[2020.02.23-01.26.03:277][  0]LogInput: Warning: Action TeleportRight uses deprecated key MotionController_Right_Thumbstick.
+[2020.02.23-01.26.03:277][  0]LogInput: Warning: Action GrabLeft uses deprecated key MotionController_Left_Trigger.
+[2020.02.23-01.26.03:277][  0]LogInput: Warning: Action GrabRight uses deprecated key MotionController_Right_Trigger.
+[2020.02.23-01.26.03:277][  0]LogInput: Warning: Action TeleportLeft uses deprecated key MotionController_Left_Thumbstick.
+[2020.02.23-01.26.03:277][  0]LogInput: Warning: Action TeleportLeft uses deprecated key MotionController_Left_FaceButton1.
+[2020.02.23-01.26.03:277][  0]LogInput: Warning: Action TeleportRight uses deprecated key MotionController_Right_FaceButton1.
+[2020.02.23-01.26.03:277][  0]LogInput: Warning: Axis MotionControllerThumbLeft_Y uses deprecated key MotionController_Left_Thumbstick_Y.
+[2020.02.23-01.26.03:277][  0]LogInput: Warning: Axis MotionControllerThumbLeft_X uses deprecated key MotionController_Left_Thumbstick_X.
+[2020.02.23-01.26.03:277][  0]LogInput: Warning: Axis MotionControllerThumbRight_Y uses deprecated key MotionController_Right_Thumbstick_Y.
+[2020.02.23-01.26.03:277][  0]LogInput: Warning: Axis MotionControllerThumbRight_X uses deprecated key MotionController_Right_Thumbstick_X.
+[2020.02.23-01.26.04:552][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.071951 seconds
+[2020.02.23-01.26.04:561][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.02.23-01.26.04:561][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.02.23-01.26.04:561][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.23-01.26.05:005][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.23-01.26.05:007][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.23-01.26.05:063][  0]SourceControl: Source control is disabled
+[2020.02.23-01.26.05:063][  0]SourceControl: Source control is disabled
+[2020.02.23-01.26.05:064][  0]SourceControl: Source control is disabled
+[2020.02.23-01.26.05:065][  0]SourceControl: Source control is disabled
+[2020.02.23-01.26.05:065][  0]SourceControl: Source control is disabled
+[2020.02.23-01.26.05:141][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.23-01.26.05:152][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.02.23-01.26.05:152][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.02.23-01.26.05:241][  0]LogOcInput: OculusInput pre-init called
+[2020.02.23-01.26.06:035][  0]LogEngine: Initializing Engine...
+[2020.02.23-01.26.06:036][  0]LogHMD: Oculus plugin initialized. Version: 4.24.2-11100242+++UE4+Release-4.24, OVRPlugin: 1.40.0
+[2020.02.23-01.26.06:036][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.02.23-01.26.06:415][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.23-01.26.06:421][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.23-01.26.06:444][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.23-01.26.06:444][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.23-01.26.06:444][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.02.23-01.26.06:445][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.02.23-01.26.06:445][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.02.23-01.26.06:445][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.23-01.26.06:445][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.23-01.26.06:445][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.23-01.26.06:445][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.23-01.26.06:445][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.23-01.26.06:511][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.23-01.26.06:512][  0]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.02.23-01.26.06:512][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.02.23-01.26.06:512][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.23-01.26.06:512][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.23-01.26.06:512][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.23-01.26.06:512][  0]LogAudioMixer: Display: Channel Order:
+[2020.02.23-01.26.06:512][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.23-01.26.06:512][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.02.23-01.26.06:552][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.02.23-01.26.06:554][  0]LogInit: FAudioDevice initialized.
+[2020.02.23-01.26.06:554][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.23-01.26.06:786][  0]LogDerivedDataCache: Saved boot cache 0.23s 103MB C:/Users/Ralphy/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.02.23-01.26.06:797][  0]LogInit: Texture streaming: Enabled
+[2020.02.23-01.26.06:806][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.23-01.26.06:806][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.02.23-01.26.06:808][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.02.23-01.26.06:895][  0]LogInit: Transaction tracking system initialized
+[2020.02.23-01.26.06:904][  0]BlueprintLog: New page: Editor Load
+[2020.02.23-01.26.06:930][  0]LocalizationService: Localization service is disabled
+[2020.02.23-01.26.07:726][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.23-01.26.07:726][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.23-01.26.08:490][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/VRfromScratch/BowlingVR 4.24/Content/' took 0.36s
+[2020.02.23-01.26.08:490][  0]SourceControl: Source control is disabled
+[2020.02.23-01.26.08:490][  0]Cmd: MAP LOAD FILE="../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.23-01.26.08:628][  0]LightingResults: New page: Lighting Build
+[2020.02.23-01.26.08:629][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.02.23-01.26.08:629][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.23-01.26.08:629][  0]MapCheck: New page: Map Check
+[2020.02.23-01.26.08:629][  0]LightingResults: New page: Lighting Build
+[2020.02.23-01.26.08:647][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.02.23-01.26.12:333][  0]LogAIModule: Creating AISystem for world StartupMap
+[2020.02.23-01.26.13:389][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.23-01.26.13:421][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.02.23-01.26.13:421][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.23-01.26.13:422][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.165ms to complete.
+[2020.02.23-01.26.13:422][  0]LogFileHelpers: Loading map 'StartupMap' took 4.932
+[2020.02.23-01.26.20:510][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-01.26.20:615][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-01.26.20:622][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-01.26.20:630][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-01.26.21:483][  0]LogCollectionManager: Loaded 0 collections in 0.001948 seconds
+[2020.02.23-01.26.24:025][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/VRfromScratch/BowlingVR 4.24/Saved/Collections/' took 0.00s
+[2020.02.23-01.26.24:025][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/VRfromScratch/BowlingVR 4.24/Content/Developers/Ralphy/Collections/' took 0.00s
+[2020.02.23-01.26.24:025][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/VRfromScratch/BowlingVR 4.24/Content/Collections/' took 0.00s
+[2020.02.23-01.26.24:025][  0]LogContentBrowser: Native class hierarchy populated in 0.0399 seconds. Added 3017 classes and 720 folders.
+[2020.02.23-01.26.24:878][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.02.23-01.26.38:247][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.23-01.26.44:909][  0]LogSlate: Took 0.000264 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.23-01.26.44:929][  0]LogSlate: Took 0.000259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.23-01.26.45:171][  0]LogSlate: Took 0.029026 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.23-01.26.46:082][  0]LogRenderer: Reallocating scene render targets to support 1068x576 Format 10 NumSamples 1 (Frame:1).
+[2020.02.23-01.26.47:690][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.23-01.26.47:690][  0]LogLoad: (Engine Initialization) Total time: 61.58 seconds
+[2020.02.23-01.26.47:690][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.23-01.26.47:705][  0]LogOcInput: OculusInput is initialized
+[2020.02.23-01.26.48:515][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.23-01.26.53:942][ 38]LogSlate: Took 0.157926 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.23-01.27.34:976][385]LogAssetRegistry: Asset discovery search completed in 103.5836 seconds
+[2020.02.23-01.27.34:980][385]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000008 seconds (updated 0 objects)
+[2020.02.23-01.28.31:285][472]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.23-01.28.48:836][472]LogGameplayTags: Warning: Invalid GameplayTag Material.Basic found while loading /Game/AVRFramework/Blueprints/Info/BP_Info_Data.Default__BP_Info_Data_C in property /Game/AVRFramework/Structs/Struct_Materials.Struct_Materials:Type_16_79EFDE534A18D698E53E96B413A16B53.
+[2020.02.23-01.28.48:836][472]LogGameplayTags: Warning: Invalid GameplayTag Material.Basic found while loading /Game/AVRFramework/Blueprints/Info/BP_Info_Data.Default__BP_Info_Data_C in property /Game/AVRFramework/Structs/Struct_Materials.Struct_Materials:Type_16_79EFDE534A18D698E53E96B413A16B53.
+[2020.02.23-01.28.48:836][472]LogGameplayTags: Warning: Invalid GameplayTag Material.Basic found while loading /Game/AVRFramework/Blueprints/Info/BP_Info_Data.Default__BP_Info_Data_C in property /Game/AVRFramework/Structs/Struct_Materials.Struct_Materials:Type_16_79EFDE534A18D698E53E96B413A16B53.
+[2020.02.23-01.28.48:836][472]LogGameplayTags: Warning: Invalid GameplayTag Material.Basic found while loading /Game/AVRFramework/Blueprints/Info/BP_Info_Data.Default__BP_Info_Data_C in property /Game/AVRFramework/Structs/Struct_Materials.Struct_Materials:Type_16_79EFDE534A18D698E53E96B413A16B53.
+[2020.02.23-01.28.48:836][472]LogGameplayTags: Warning: Invalid GameplayTag Material.Basic found while loading /Game/AVRFramework/Blueprints/Info/BP_Info_Data.Default__BP_Info_Data_C in property /Game/AVRFramework/Structs/Struct_Materials.Struct_Materials:Type_16_79EFDE534A18D698E53E96B413A16B53.
+[2020.02.23-01.28.48:836][472]LogGameplayTags: Warning: Invalid GameplayTag Material.Basic found while loading /Game/AVRFramework/Blueprints/Info/BP_Info_Data.Default__BP_Info_Data_C in property /Game/AVRFramework/Structs/Struct_Materials.Struct_Materials:Type_16_79EFDE534A18D698E53E96B413A16B53.
+[2020.02.23-01.28.48:836][472]LogGameplayTags: Warning: Invalid GameplayTag Material.Basic found while loading /Game/AVRFramework/Blueprints/Info/BP_Info_Data.Default__BP_Info_Data_C in property /Game/AVRFramework/Structs/Struct_Materials.Struct_Materials:Type_16_79EFDE534A18D698E53E96B413A16B53.
+[2020.02.23-01.28.48:836][472]LogGameplayTags: Warning: Invalid GameplayTag Material.Basic found while loading /Game/AVRFramework/Blueprints/Info/BP_Info_Data.Default__BP_Info_Data_C in property /Game/AVRFramework/Structs/Struct_Materials.Struct_Materials:Type_16_79EFDE534A18D698E53E96B413A16B53.
+[2020.02.23-01.28.48:836][472]LogGameplayTags: Warning: Invalid GameplayTag Material.Basic found while loading /Game/AVRFramework/Blueprints/Info/BP_Info_Data.Default__BP_Info_Data_C in property /Game/AVRFramework/Structs/Struct_Materials.Struct_Materials:Type_16_79EFDE534A18D698E53E96B413A16B53.
+[2020.02.23-01.28.48:836][472]LogGameplayTags: Warning: Invalid GameplayTag Material.Basic found while loading /Game/AVRFramework/Blueprints/Info/BP_Info_Data.Default__BP_Info_Data_C in property /Game/AVRFramework/Structs/Struct_Materials.Struct_Materials:Type_16_79EFDE534A18D698E53E96B413A16B53.
+[2020.02.23-01.28.48:836][472]LogGameplayTags: Warning: Invalid GameplayTag Material.Basic found while loading /Game/AVRFramework/Blueprints/Info/BP_Info_Data.Default__BP_Info_Data_C in property /Game/AVRFramework/Structs/Struct_Materials.Struct_Materials:Type_16_79EFDE534A18D698E53E96B413A16B53.
+[2020.02.23-01.28.48:836][472]LogGameplayTags: Warning: Invalid GameplayTag Material.Basic found while loading /Game/AVRFramework/Blueprints/Info/BP_Info_Data.Default__BP_Info_Data_C in property /Game/AVRFramework/Structs/Struct_Materials.Struct_Materials:Type_16_79EFDE534A18D698E53E96B413A16B53.
+[2020.02.23-01.28.48:837][472]LogGameplayTags: Warning: Invalid GameplayTag Material.Basic found while loading /Game/AVRFramework/Blueprints/Info/BP_Info_Data.Default__BP_Info_Data_C in property /Game/AVRFramework/Structs/Struct_Materials.Struct_Materials:Type_16_79EFDE534A18D698E53E96B413A16B53.
+[2020.02.23-01.28.48:837][472]LogGameplayTags: Warning: Invalid GameplayTag Material.Basic found while loading /Game/AVRFramework/Blueprints/Info/BP_Info_Data.Default__BP_Info_Data_C in property /Game/AVRFramework/Structs/Struct_Materials.Struct_Materials:Type_16_79EFDE534A18D698E53E96B413A16B53.
+[2020.02.23-01.28.48:837][472]LogGameplayTags: Warning: Invalid GameplayTag Material.Basic found while loading /Game/AVRFramework/Blueprints/Info/BP_Info_Data.Default__BP_Info_Data_C in property /Game/AVRFramework/Structs/Struct_Materials.Struct_Materials:Type_16_79EFDE534A18D698E53E96B413A16B53.
+[2020.02.23-01.28.48:837][472]LogGameplayTags: Warning: Invalid GameplayTag Material.Basic found while loading /Game/AVRFramework/Blueprints/Info/BP_Info_Data.Default__BP_Info_Data_C in property /Game/AVRFramework/Structs/Struct_Materials.Struct_Materials:Type_16_79EFDE534A18D698E53E96B413A16B53.
+[2020.02.23-01.28.48:837][472]LogGameplayTags: Warning: Invalid GameplayTag Material.Basic found while loading /Game/AVRFramework/Blueprints/Info/BP_Info_Data.Default__BP_Info_Data_C in property /Game/AVRFramework/Structs/Struct_Materials.Struct_Materials:Type_16_79EFDE534A18D698E53E96B413A16B53.
+[2020.02.23-01.28.48:837][472]LogGameplayTags: Warning: Invalid GameplayTag Material.Basic found while loading /Game/AVRFramework/Blueprints/Info/BP_Info_Data.Default__BP_Info_Data_C in property /Game/AVRFramework/Structs/Struct_Materials.Struct_Materials:Type_16_79EFDE534A18D698E53E96B413A16B53.
+[2020.02.23-01.28.48:837][472]LogGameplayTags: Warning: Invalid GameplayTag Material.Basic found while loading /Game/AVRFramework/Blueprints/Info/BP_Info_Data.Default__BP_Info_Data_C in property /Game/AVRFramework/Structs/Struct_Materials.Struct_Materials:Type_16_79EFDE534A18D698E53E96B413A16B53.
+[2020.02.23-01.29.02:632][472]LogBlueprint: Warning: [Compiler BP_Movement_Ghost_Character] Input Axis Event references unknown Axis 'Right' for  InputAxis Right
+[2020.02.23-01.29.02:632][472]LogBlueprint: Warning: [Compiler BP_Movement_Ghost_Character] Input Axis Event references unknown Axis 'Forward' for  InputAxis Forward
+[2020.02.23-01.29.02:685][472]LogBlueprint: Warning: [Compiler BP_Pawn_NonVR] InputAction Event references unknown Action 'Stats' for  InputAction Stats
+[2020.02.23-01.29.02:822][472]LogBlueprint: Warning: [Compiler BP_Pawn_VR] GetInputAxisKey Value specifies FKey'MotionController_Left_Thumbstick_X' which has been deprecated for  Get MotionController (L) Thumbstick X
+[2020.02.23-01.29.02:822][472]LogBlueprint: Warning: [Compiler BP_Pawn_VR] GetInputAxisKey Value specifies FKey'MotionController_Right_Thumbstick_X' which has been deprecated for  Get MotionController (R) Thumbstick X
+[2020.02.23-01.29.02:823][472]LogBlueprint: Warning: [Compiler BP_Pawn_VR] GetInputAxisKey Value specifies FKey'MotionController_Left_Thumbstick_Y' which has been deprecated for  Get MotionController (L) Thumbstick Y
+[2020.02.23-01.29.02:823][472]LogBlueprint: Warning: [Compiler BP_Pawn_VR] GetInputAxisKey Value specifies FKey'MotionController_Right_Thumbstick_Y' which has been deprecated for  Get MotionController (R) Thumbstick Y
+[2020.02.23-01.29.02:824][472]LogBlueprint: Warning: [Compiler BP_Pawn_VR] InputAxisKey Event specifies FKey'MotionController_Right_TriggerAxis' which has been deprecated for  MotionController (R) TriggerAxis
+[2020.02.23-01.29.02:824][472]LogBlueprint: Warning: [Compiler BP_Pawn_VR] InputAxisKey Event specifies FKey'MotionController_Left_TriggerAxis' which has been deprecated for  MotionController (L) TriggerAxis
+[2020.02.23-01.29.02:824][472]LogBlueprint: Warning: [Compiler BP_Pawn_VR] Input Axis Event references unknown Axis 'Zoom' for  InputAxis Zoom
+[2020.02.23-01.29.02:824][472]LogBlueprint: Warning: [Compiler BP_Pawn_VR] InputAction Event references unknown Action 'Sprint' for  InputAction Sprint
+[2020.02.23-01.29.02:825][472]LogBlueprint: Warning: [Compiler BP_Pawn_VR] Input Axis Event references unknown Axis 'LookRight' for  InputAxis LookRight
+[2020.02.23-01.29.02:825][472]LogBlueprint: Warning: [Compiler BP_Pawn_VR] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2020.02.23-01.29.02:825][472]LogBlueprint: Warning: [Compiler BP_Pawn_VR] Input Axis Event references unknown Axis 'Up' for  InputAxis Up
+[2020.02.23-01.29.02:825][472]LogBlueprint: Warning: [Compiler BP_Pawn_VR] Input Axis Event references unknown Axis 'Right' for  InputAxis Right
+[2020.02.23-01.29.02:825][472]LogBlueprint: Warning: [Compiler BP_Pawn_VR] Input Axis Event references unknown Axis 'Forward' for  InputAxis Forward
+[2020.02.23-01.29.02:826][472]LogBlueprint: Warning: [Compiler BP_Pawn_VR] InputKey Event specifies FKey'MotionController_Right_Thumbstick' which has been deprecated for  MotionController (R) Thumbstick
+[2020.02.23-01.29.02:826][472]LogBlueprint: Warning: [Compiler BP_Pawn_VR] InputAxisKey Event specifies FKey'MotionController_Right_Grip1Axis' which has been deprecated for  MotionController (R) Grip1 Axis
+[2020.02.23-01.29.02:826][472]LogBlueprint: Warning: [Compiler BP_Pawn_VR] InputAxisKey Event specifies FKey'OculusTouch_Right_ThumbUp' that is not blueprint bindable for  Oculus Touch (R) Thumb Up CapTouch
+[2020.02.23-01.29.02:826][472]LogBlueprint: Warning: [Compiler BP_Pawn_VR] InputAxisKey Event specifies FKey'OculusTouch_Right_IndexPointing' that is not blueprint bindable for  Oculus Touch (R) Pointing CapTouch
+[2020.02.23-01.29.02:826][472]LogBlueprint: Warning: [Compiler BP_Pawn_VR] InputAxisKey Event specifies FKey'MotionController_Left_Grip1Axis' which has been deprecated for  MotionController (L) Grip1 Axis
+[2020.02.23-01.29.02:826][472]LogBlueprint: Warning: [Compiler BP_Pawn_VR] InputAxisKey Event specifies FKey'OculusTouch_Left_ThumbUp' that is not blueprint bindable for  Oculus Touch (L) Thumb Up CapTouch
+[2020.02.23-01.29.02:826][472]LogBlueprint: Warning: [Compiler BP_Pawn_VR] InputAxisKey Event specifies FKey'OculusTouch_Left_IndexPointing' that is not blueprint bindable for  Oculus Touch (L) Pointing CapTouch
+[2020.02.23-01.29.02:827][472]LogBlueprint: Warning: [Compiler BP_Pawn_VR] InputKey Event specifies FKey'MotionController_Right_FaceButton4' which has been deprecated for  MotionController (R) FaceButton4
+[2020.02.23-01.29.02:827][472]LogBlueprint: Warning: [Compiler BP_Pawn_VR] InputKey Event specifies FKey'MotionController_Left_FaceButton4' which has been deprecated for  MotionController (L) FaceButton4
+[2020.02.23-01.29.02:827][472]LogBlueprint: Warning: [Compiler BP_Pawn_VR] InputKey Event specifies FKey'MotionController_Right_FaceButton2' which has been deprecated for  MotionController (R) FaceButton2
+[2020.02.23-01.29.02:827][472]LogBlueprint: Warning: [Compiler BP_Pawn_VR] InputKey Event specifies FKey'MotionController_Left_FaceButton2' which has been deprecated for  MotionController (L) FaceButton2
+[2020.02.23-01.29.02:827][472]LogBlueprint: Warning: [Compiler BP_Pawn_VR] InputKey Event specifies FKey'MotionController_Left_FaceButton1' which has been deprecated for  MotionController (L) FaceButton1
+[2020.02.23-01.29.02:827][472]LogBlueprint: Warning: [Compiler BP_Pawn_VR] InputKey Event specifies FKey'MotionController_Right_FaceButton3' which has been deprecated for  MotionController (R) FaceButton3
+[2020.02.23-01.29.02:827][472]LogBlueprint: Warning: [Compiler BP_Pawn_VR] InputKey Event specifies FKey'MotionController_Left_FaceButton3' which has been deprecated for  MotionController (L) FaceButton3
+[2020.02.23-01.29.02:827][472]LogBlueprint: Warning: [Compiler BP_Pawn_VR] InputKey Event specifies FKey'MotionController_Right_FaceButton1' which has been deprecated for  MotionController (R) FaceButton1
+[2020.02.23-01.29.02:827][472]LogBlueprint: Warning: [Compiler BP_Pawn_VR] InputKey Event specifies FKey'MotionController_Left_Trigger' which has been deprecated for  MotionController (L) Trigger
+[2020.02.23-01.29.02:827][472]LogBlueprint: Warning: [Compiler BP_Pawn_VR] InputKey Event specifies FKey'MotionController_Right_Trigger' which has been deprecated for  MotionController (R) Trigger
+[2020.02.23-01.29.02:827][472]LogBlueprint: Warning: [Compiler BP_Pawn_VR] InputKey Event specifies FKey'MotionController_Right_Grip1' which has been deprecated for  MotionController (R) Grip1
+[2020.02.23-01.29.02:827][472]LogBlueprint: Warning: [Compiler BP_Pawn_VR] InputKey Event specifies FKey'MotionController_Left_Grip1' which has been deprecated for  MotionController (L) Grip1
+[2020.02.23-01.29.02:827][472]LogBlueprint: Warning: [Compiler BP_Pawn_VR] InputKey Event specifies FKey'MotionController_Right_Shoulder' which has been deprecated for  MotionController (R) Shoulder
+[2020.02.23-01.29.02:827][472]LogBlueprint: Warning: [Compiler BP_Pawn_VR] InputKey Event specifies FKey'MotionController_Left_Shoulder' which has been deprecated for  MotionController (L) Shoulder
+[2020.02.23-01.29.02:827][472]LogBlueprint: Warning: [Compiler BP_Pawn_VR] InputKey Event specifies FKey'MotionController_Left_Thumbstick' which has been deprecated for  MotionController (L) Thumbstick
+[2020.02.23-01.29.02:827][472]LogBlueprint: Warning: [Compiler BP_Pawn_VR] GetInputAxisKey Value specifies FKey'MotionController_Right_Thumbstick_X' which has been deprecated for  Get MotionController (R) Thumbstick X
+[2020.02.23-01.29.02:827][472]LogBlueprint: Warning: [Compiler BP_Pawn_VR] GetInputAxisKey Value specifies FKey'MotionController_Right_Thumbstick_Y' which has been deprecated for  Get MotionController (R) Thumbstick Y
+[2020.02.23-01.29.02:828][472]LogBlueprint: Warning: [Compiler BP_Pawn_VR] GetInputAxisKey Value specifies FKey'MotionController_Left_Thumbstick_X' which has been deprecated for  Get MotionController (L) Thumbstick X
+[2020.02.23-01.29.02:828][472]LogBlueprint: Warning: [Compiler BP_Pawn_VR] GetInputAxisKey Value specifies FKey'MotionController_Left_Thumbstick_Y' which has been deprecated for  Get MotionController (L) Thumbstick Y
+[2020.02.23-01.29.02:868][472]LogBlueprint: Warning: [Compiler BP_PlayerController_Main] InputAction Event references unknown Action 'Pause' for  InputAction Pause
+[2020.02.23-01.29.03:193][472]LogBlueprint: Warning: [Compiler BP_Pawn_NonVR_Normal] InputAction Event references unknown Action 'Crouch' for  InputAction Crouch
+[2020.02.23-01.29.03:193][472]LogBlueprint: Warning: [Compiler BP_Pawn_NonVR_Normal] InputAction Event references unknown Action 'ActivateRotation' for  InputAction ActivateRotation
+[2020.02.23-01.29.03:193][472]LogBlueprint: Warning: [Compiler BP_Pawn_NonVR_Normal] Input Axis Event references unknown Axis 'Zoom' for  InputAxis Zoom
+[2020.02.23-01.29.03:193][472]LogBlueprint: Warning: [Compiler BP_Pawn_NonVR_Normal] InputAction Event references unknown Action 'Select' for  InputAction Select
+[2020.02.23-01.29.03:193][472]LogBlueprint: Warning: [Compiler BP_Pawn_NonVR_Normal] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2020.02.23-01.29.03:193][472]LogBlueprint: Warning: [Compiler BP_Pawn_NonVR_Normal] InputAction Event references unknown Action 'ToggleMouseControl' for  InputAction ToggleMouseControl
+[2020.02.23-01.29.03:193][472]LogBlueprint: Warning: [Compiler BP_Pawn_NonVR_Normal] InputAction Event references unknown Action 'Sprint' for  InputAction Sprint
+[2020.02.23-01.29.03:194][472]LogBlueprint: Warning: [Compiler BP_Pawn_NonVR_Normal] Input Axis Event references unknown Axis 'LookRight' for  InputAxis LookRight
+[2020.02.23-01.29.03:194][472]LogBlueprint: Warning: [Compiler BP_Pawn_NonVR_Normal] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2020.02.23-01.29.03:194][472]LogBlueprint: Warning: [Compiler BP_Pawn_NonVR_Normal] Input Axis Event references unknown Axis 'Up' for  InputAxis Up
+[2020.02.23-01.29.03:194][472]LogBlueprint: Warning: [Compiler BP_Pawn_NonVR_Normal] Input Axis Event references unknown Axis 'Right' for  InputAxis Right
+[2020.02.23-01.29.03:195][472]LogBlueprint: Warning: [Compiler BP_Pawn_NonVR_Normal] Input Axis Event references unknown Axis 'Forward' for  InputAxis Forward
+[2020.02.23-01.29.27:480][472]LogAIModule: Creating AISystem for world BlockoutV3
+[2020.02.23-01.29.28:531][472]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Areiazo/Maps/BlockoutV3.BlockoutV3
+[2020.02.23-01.29.30:150][472]LogUObjectHash: Compacting FUObjectHashTables data took   7.16ms
+[2020.02.23-01.29.30:511][472]Cmd: MAP LOAD FILE="../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/Areiazo/Maps/BlockoutV3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.23-01.29.30:512][472]LightingResults: New page: Lighting Build
+[2020.02.23-01.29.30:513][472]LoadErrors: New page: Loading map: BlockoutV3.umap
+[2020.02.23-01.29.30:966][472]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.23-01.29.31:048][472]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.23-01.29.31:086][472]MapCheck: New page: Map Check
+[2020.02.23-01.29.31:086][472]LightingResults: New page: Lighting Build
+[2020.02.23-01.29.31:907][472]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2020.02.23-01.29.32:914][472]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.23-01.29.33:639][472]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2020.02.23-01.29.33:686][472]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.23-01.29.33:686][472]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.085ms to complete.
+[2020.02.23-01.29.33:686][472]LogFileHelpers: Loading map 'BlockoutV3' took 3.534
+[2020.02.23-01.30.07:686][711]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel' has LevelScriptBlueprint '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel.BlockoutV3' with GeneratedClass '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3_C' with ClassGeneratedBy '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel.BlockoutV3'
+[2020.02.23-01.30.07:912][711]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.23-01.30.07:987][711]PIE: New page: PIE session: BlockoutV3 (Feb 22, 2020, 9:30:07 AM)
+[2020.02.23-01.30.08:367][711]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.02.23-01.30.08:390][711]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.02.23-01.30.08:586][711]LogPlayLevel: Creating play world package: /Game/Areiazo/Maps/UEDPIE_0_BlockoutV3
+[2020.02.23-01.30.08:769][711]LogPlayLevel: PIE: StaticDuplicateObject took: (0.182957s)
+[2020.02.23-01.30.08:834][711]LogAIModule: Creating AISystem for world BlockoutV3
+[2020.02.23-01.30.08:885][711]LogPlayLevel: PIE: World Init took: (0.115878s)
+[2020.02.23-01.30.08:923][711]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Areiazo/Maps/BlockoutV3.BlockoutV3 to /Game/Areiazo/Maps/UEDPIE_0_BlockoutV3.BlockoutV3 (0.337202s)
+[2020.02.23-01.30.08:964][711]LogUObjectHash: Compacting FUObjectHashTables data took   5.21ms
+[2020.02.23-01.30.09:076][711]LogHMD: Initializing OVRPlugin session
+[2020.02.23-01.30.13:964][711]LogHMD: Allocating Oculus 3296 x 1776 rendertarget swapchain
+[2020.02.23-01.30.14:005][711]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.23-01.30.14:005][711]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.23-01.30.14:005][711]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.02.23-01.30.14:005][711]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.02.23-01.30.14:005][711]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.02.23-01.30.14:005][711]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.23-01.30.14:005][711]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.23-01.30.14:005][711]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.23-01.30.14:007][711]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.23-01.30.14:007][711]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.23-01.30.14:086][711]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.23-01.30.14:086][711]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.02.23-01.30.14:086][711]LogAudioMixer: Display: Is Default: Yes
+[2020.02.23-01.30.14:086][711]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.23-01.30.14:086][711]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.23-01.30.14:086][711]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.23-01.30.14:086][711]LogAudioMixer: Display: Channel Order:
+[2020.02.23-01.30.14:086][711]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.23-01.30.14:086][711]LogAudioMixer: Display: 1: FrontRight
+[2020.02.23-01.30.14:096][711]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.23-01.30.14:096][711]LogAudioMixer: Display: Name: Realtek Digital Output(Optical) (Realtek High Definition Audio)
+[2020.02.23-01.30.14:096][711]LogAudioMixer: Display: Is Default: No
+[2020.02.23-01.30.14:096][711]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.23-01.30.14:096][711]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.23-01.30.14:096][711]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.23-01.30.14:096][711]LogAudioMixer: Display: Channel Order:
+[2020.02.23-01.30.14:096][711]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.23-01.30.14:096][711]LogAudioMixer: Display: 1: FrontRight
+[2020.02.23-01.30.14:124][711]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.23-01.30.14:124][711]LogAudioMixer: Display: Name: Headphones (Rift S)
+[2020.02.23-01.30.14:125][711]LogAudioMixer: Display: Is Default: No
+[2020.02.23-01.30.14:125][711]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.23-01.30.14:125][711]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.23-01.30.14:125][711]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.23-01.30.14:125][711]LogAudioMixer: Display: Channel Order:
+[2020.02.23-01.30.14:125][711]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.23-01.30.14:125][711]LogAudioMixer: Display: 1: FrontRight
+[2020.02.23-01.30.14:128][711]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.23-01.30.14:128][711]LogAudioMixer: Display: Name: Headphones (Rift S)
+[2020.02.23-01.30.14:128][711]LogAudioMixer: Display: Is Default: No
+[2020.02.23-01.30.14:128][711]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.23-01.30.14:128][711]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.23-01.30.14:128][711]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.23-01.30.14:128][711]LogAudioMixer: Display: Channel Order:
+[2020.02.23-01.30.14:128][711]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.23-01.30.14:128][711]LogAudioMixer: Display: 1: FrontRight
+[2020.02.23-01.30.14:166][711]LogAudioMixer: Display: Using Audio Device Headphones (Rift S)
+[2020.02.23-01.30.14:180][711]LogInit: FAudioDevice initialized.
+[2020.02.23-01.30.14:464][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-01.30.14:835][711]LogLoad: Game class is 'BP_GameMode_Areiazo_C'
+[2020.02.23-01.30.15:552][711]LogWorld: Bringing World /Game/Areiazo/Maps/UEDPIE_0_BlockoutV3.BlockoutV3 up for play (max tick rate 0) at 2020.02.22-17.30.15
+[2020.02.23-01.30.15:703][711]LogWorld: Bringing up level for play took: 0.154454
+[2020.02.23-01.30.15:859][711]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2020.02.23-01.30.16:909][711]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2020.02.23-01.30.16:930][711]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.23-01.30.16:930][711]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.23-01.30.16:930][711]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.02.23-01.30.16:981][711]LogScript: Warning: Accessed None trying to read property CallFunc_getMainGameInstance_GameInstance
+	BP_PlayerPosition_C /Game/Areiazo/Maps/UEDPIE_0_BlockoutV3.BlockoutV3:PersistentLevel.BP_PlayerPosition_2
+	Function /Game/AVRFramework/Blueprints/Navigation/BP_PlayerPosition.BP_PlayerPosition_C:ExecuteUbergraph_BP_PlayerPosition:013E
+[2020.02.23-01.30.17:054][711]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_getMainGameInstance_GameInstance". Blueprint:  BP_PlayerPosition Function:  Execute Ubergraph BP Player Position Graph:  DelaySpawnIfInitial Node:  Initial Spawn?
+[2020.02.23-01.30.17:143][711]LogScript: Warning: Accessed None trying to read property CallFunc_getMainGameInstance_GameInstance
+	Lib_Core_C /Game/AVRFramework/Libraries/Lib_Core.Default__Lib_Core_C
+	Function /Game/AVRFramework/Libraries/Lib_Core.Lib_Core_C:getCurrentLevel:004F
+[2020.02.23-01.30.17:143][711]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_getMainGameInstance_GameInstance". Blueprint:  Lib_Core Function:  Get Current Level Graph:  getCurrentLevel Node:  Branch
+[2020.02.23-01.30.17:289][711]LogScript: Warning: UGameplayStatics::SpawnObject no class specified
+[2020.02.23-01.30.17:851][711]LogScript: Warning: Accessed None trying to read property CallFunc_getMainGameInstance_GameInstance
+	Lib_Core_C /Game/AVRFramework/Libraries/Lib_Core.Default__Lib_Core_C
+	Function /Game/AVRFramework/Libraries/Lib_Core.Lib_Core_C:getCurrentLevel:004F
+[2020.02.23-01.30.17:851][711]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_getMainGameInstance_GameInstance". Blueprint:  Lib_Core Function:  Get Current Level Graph:  getCurrentLevel Node:  Branch
+[2020.02.23-01.30.17:851][711]LogScript: Warning: UGameplayStatics::SpawnObject no class specified
+[2020.02.23-01.30.19:300][711]LogLevel: Warning: Failed to find streaming level object associated with 'Map_Pause'
+[2020.02.23-01.30.19:300][711]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.02.23-01.30.19:706][711]PIE: Play in editor start time for /Game/Areiazo/Maps/UEDPIE_0_BlockoutV3 12.22
+[2020.02.23-01.30.19:707][711]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel' has LevelScriptBlueprint '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel.BlockoutV3' with GeneratedClass '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3_C' with ClassGeneratedBy '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel.BlockoutV3'
+[2020.02.23-01.30.19:974][711]LogEngine: Changing dynamic resolution state.
+[2020.02.23-01.30.20:306][711]LogLevelStreaming: Display: FStreamLevelAction::UpdateOperation() LevelName Map_Pause, bIsLevelValid 0
+[2020.02.23-01.30.22:810][711]LogRenderer: Reallocating scene render targets to support 3296x1776 Format 10 NumSamples 1 (Frame:1).
+[2020.02.23-01.30.22:810][711]LogHMD: Allocating Oculus 3296 x 1776 depth rendertarget swapchain
+[2020.02.23-01.30.22:810][711]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.02.23-01.30.23:528][713]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2020.02.23-01.30.24:184][716]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.02.23-01.31.07:954][849]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-01.31.08:372][849]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel' has LevelScriptBlueprint '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel.BlockoutV3' with GeneratedClass '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3_C' with ClassGeneratedBy '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel.BlockoutV3'
+[2020.02.23-01.31.08:494][849]LogWorld: BeginTearingDown for /Game/Areiazo/Maps/UEDPIE_0_BlockoutV3
+[2020.02.23-01.31.12:206][849]LogSlate: Window 'BowlingVR Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.23-01.31.12:291][849]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.23-01.31.12:917][849]LogWorld: UWorld::CleanupWorld for BlockoutV3, bSessionEnded=true, bCleanupResources=true
+[2020.02.23-01.31.13:155][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.23-01.31.13:568][849]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.23-01.31.13:568][849]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel' has LevelScriptBlueprint '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel.BlockoutV3' with GeneratedClass '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3_C' with ClassGeneratedBy '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel.BlockoutV3'
+[2020.02.23-01.31.13:848][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.23-01.31.14:429][849]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.23-01.31.15:059][849]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2020.02.23-01.31.15:526][850]Cmd: SELECT NONE
+[2020.02.23-01.31.18:828][850]Cmd: SELECT NONE
+[2020.02.23-01.31.18:829][850]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2020.02.23-01.31.19:280][850]LogEngine: Changing dynamic resolution state.
+[2020.02.23-01.34.46:335][978]Cmd: DELETE
+[2020.02.23-01.34.46:335][978]Cmd: ACTOR DELETE
+[2020.02.23-01.34.46:530][978]LogEditorActor: Deleted Actor: BP_PlayerPosition_C
+[2020.02.23-01.34.46:641][978]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2020.02.23-01.34.46:689][978]LogEditorActor: Deleted 1 Actors (0.324 secs)
+[2020.02.23-01.34.47:471][ 39]Cmd: DELETE
+[2020.02.23-01.34.47:471][ 39]Cmd: ACTOR DELETE
+[2020.02.23-01.34.47:475][ 39]LogEditorActor: Deleted Actor: BP_PostProcess_C
+[2020.02.23-01.34.47:514][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.02.23-01.34.47:514][ 39]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2020.02.23-01.34.51:663][386]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel' has LevelScriptBlueprint '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel.BlockoutV3' with GeneratedClass '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3_C' with ClassGeneratedBy '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel.BlockoutV3'
+[2020.02.23-01.34.51:723][386]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.23-01.34.51:723][386]PIE: New page: SIE session: BlockoutV3 (Feb 22, 2020, 9:34:51 AM)
+[2020.02.23-01.34.51:723][386]LogPlayLevel: Creating play world package: /Game/Areiazo/Maps/UEDPIE_0_BlockoutV3
+[2020.02.23-01.34.52:308][386]LogPlayLevel: PIE: StaticDuplicateObject took: (0.557652s)
+[2020.02.23-01.34.52:309][386]LogAIModule: Creating AISystem for world BlockoutV3
+[2020.02.23-01.34.52:309][386]LogPlayLevel: PIE: World Init took: (0.001205s)
+[2020.02.23-01.34.52:309][386]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Areiazo/Maps/BlockoutV3.BlockoutV3 to /Game/Areiazo/Maps/UEDPIE_0_BlockoutV3.BlockoutV3 (0.587179s)
+[2020.02.23-01.34.52:355][386]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.02.23-01.34.52:373][386]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.23-01.34.52:373][386]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.23-01.34.52:373][386]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.02.23-01.34.52:373][386]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.02.23-01.34.52:373][386]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.02.23-01.34.52:373][386]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.23-01.34.52:373][386]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.23-01.34.52:373][386]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.23-01.34.52:374][386]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.23-01.34.52:374][386]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.23-01.34.52:424][386]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.23-01.34.52:424][386]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.02.23-01.34.52:424][386]LogAudioMixer: Display: Is Default: Yes
+[2020.02.23-01.34.52:424][386]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.23-01.34.52:424][386]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.23-01.34.52:424][386]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.23-01.34.52:424][386]LogAudioMixer: Display: Channel Order:
+[2020.02.23-01.34.52:424][386]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.23-01.34.52:424][386]LogAudioMixer: Display: 1: FrontRight
+[2020.02.23-01.34.52:460][386]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.02.23-01.34.52:488][386]LogInit: FAudioDevice initialized.
+[2020.02.23-01.34.52:546][386]LogLoad: Game class is 'BP_GameMode_Areiazo_C'
+[2020.02.23-01.34.52:549][386]LogWorld: Bringing World /Game/Areiazo/Maps/UEDPIE_0_BlockoutV3.BlockoutV3 up for play (max tick rate 0) at 2020.02.22-17.34.52
+[2020.02.23-01.34.52:549][386]LogWorld: Bringing up level for play took: 0.002723
+[2020.02.23-01.34.52:570][386]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2020.02.23-01.34.52:583][386]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.23-01.34.52:607][386]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.23-01.34.52:607][386]PIE: Play in editor start time for /Game/Areiazo/Maps/UEDPIE_0_BlockoutV3 1.121
+[2020.02.23-01.34.52:772][386]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel' has LevelScriptBlueprint '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel.BlockoutV3' with GeneratedClass '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3_C' with ClassGeneratedBy '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel.BlockoutV3'
+[2020.02.23-01.34.55:958][632]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.23-01.34.55:958][632]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.23-01.34.55:958][632]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel' has LevelScriptBlueprint '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel.BlockoutV3' with GeneratedClass '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3_C' with ClassGeneratedBy '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel.BlockoutV3'
+[2020.02.23-01.34.55:958][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-01.34.55:958][632]LogWorld: BeginTearingDown for /Game/Areiazo/Maps/UEDPIE_0_BlockoutV3
+[2020.02.23-01.34.55:959][632]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.23-01.34.55:960][632]LogWorld: UWorld::CleanupWorld for BlockoutV3, bSessionEnded=true, bCleanupResources=true
+[2020.02.23-01.34.55:960][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.23-01.34.57:724][632]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.23-01.34.57:724][632]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel' has LevelScriptBlueprint '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel.BlockoutV3' with GeneratedClass '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3_C' with ClassGeneratedBy '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel.BlockoutV3'
+[2020.02.23-01.34.57:728][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.23-01.34.57:757][632]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.23-01.34.57:763][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-01.34.57:770][632]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.02.23-01.34.57:819][633]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.02.23-01.34.58:950][701]Cmd: TRANSACTION UNDO
+[2020.02.23-01.34.58:950][701]LogEditorTransaction: Undo Delete Actors
+[2020.02.23-01.35.03:678][ 87]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel' has LevelScriptBlueprint '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel.BlockoutV3' with GeneratedClass '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3_C' with ClassGeneratedBy '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel.BlockoutV3'
+[2020.02.23-01.35.03:678][ 87]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.23-01.35.03:678][ 87]PIE: New page: SIE session: BlockoutV3 (Feb 22, 2020, 9:35:03 AM)
+[2020.02.23-01.35.03:678][ 87]LogPlayLevel: Creating play world package: /Game/Areiazo/Maps/UEDPIE_0_BlockoutV3
+[2020.02.23-01.35.03:701][ 87]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023048s)
+[2020.02.23-01.35.03:702][ 87]LogAIModule: Creating AISystem for world BlockoutV3
+[2020.02.23-01.35.03:702][ 87]LogPlayLevel: PIE: World Init took: (0.001049s)
+[2020.02.23-01.35.03:702][ 87]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Areiazo/Maps/BlockoutV3.BlockoutV3 to /Game/Areiazo/Maps/UEDPIE_0_BlockoutV3.BlockoutV3 (0.024364s)
+[2020.02.23-01.35.03:729][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.02.23-01.35.03:819][ 87]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.23-01.35.03:819][ 87]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.23-01.35.03:819][ 87]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.02.23-01.35.03:819][ 87]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.02.23-01.35.03:819][ 87]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.02.23-01.35.03:819][ 87]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.23-01.35.03:819][ 87]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.23-01.35.03:819][ 87]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.23-01.35.03:819][ 87]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.23-01.35.03:819][ 87]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.23-01.35.03:891][ 87]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.23-01.35.03:891][ 87]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.02.23-01.35.03:891][ 87]LogAudioMixer: Display: Is Default: Yes
+[2020.02.23-01.35.03:891][ 87]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.23-01.35.03:891][ 87]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.23-01.35.03:891][ 87]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.23-01.35.03:891][ 87]LogAudioMixer: Display: Channel Order:
+[2020.02.23-01.35.03:891][ 87]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.23-01.35.03:891][ 87]LogAudioMixer: Display: 1: FrontRight
+[2020.02.23-01.35.03:927][ 87]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.02.23-01.35.03:929][ 87]LogInit: FAudioDevice initialized.
+[2020.02.23-01.35.03:939][ 87]LogLoad: Game class is 'BP_GameMode_Areiazo_C'
+[2020.02.23-01.35.03:943][ 87]LogWorld: Bringing World /Game/Areiazo/Maps/UEDPIE_0_BlockoutV3.BlockoutV3 up for play (max tick rate 0) at 2020.02.22-17.35.03
+[2020.02.23-01.35.03:944][ 87]LogWorld: Bringing up level for play took: 0.003944
+[2020.02.23-01.35.03:945][ 87]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2020.02.23-01.35.03:965][ 87]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.23-01.35.03:965][ 87]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.23-01.35.03:965][ 87]PIE: Play in editor start time for /Game/Areiazo/Maps/UEDPIE_0_BlockoutV3 0.479
+[2020.02.23-01.35.03:972][ 87]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel' has LevelScriptBlueprint '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel.BlockoutV3' with GeneratedClass '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3_C' with ClassGeneratedBy '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel.BlockoutV3'
+[2020.02.23-01.35.06:403][285]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.23-01.35.06:411][285]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.02.23-01.35.06:421][285]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.02.23-01.35.06:421][285]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel' has LevelScriptBlueprint '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel.BlockoutV3' with GeneratedClass '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3_C' with ClassGeneratedBy '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel.BlockoutV3'
+[2020.02.23-01.35.06:422][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-01.35.06:422][285]LogWorld: BeginTearingDown for /Game/Areiazo/Maps/UEDPIE_0_BlockoutV3
+[2020.02.23-01.35.06:423][285]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.23-01.35.06:423][285]LogWorld: UWorld::CleanupWorld for BlockoutV3, bSessionEnded=true, bCleanupResources=true
+[2020.02.23-01.35.06:423][285]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.23-01.35.06:663][285]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.23-01.35.06:664][285]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel' has LevelScriptBlueprint '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel.BlockoutV3' with GeneratedClass '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3_C' with ClassGeneratedBy '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel.BlockoutV3'
+[2020.02.23-01.35.06:669][285]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.23-01.35.06:694][285]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.23-01.35.06:698][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-01.35.06:703][285]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.02.23-01.35.06:743][286]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.02.23-01.35.08:775][287]Cmd: TRANSACTION UNDO
+[2020.02.23-01.35.08:775][287]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.23-01.35.12:118][564]Cmd: TRANSACTION UNDO
+[2020.02.23-01.35.12:119][564]LogEditorTransaction: Undo Delete Actors
+[2020.02.23-01.35.14:795][772]LogTemp: Repeating last play command: Simulate
+[2020.02.23-01.35.15:233][772]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel' has LevelScriptBlueprint '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel.BlockoutV3' with GeneratedClass '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3_C' with ClassGeneratedBy '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel.BlockoutV3'
+[2020.02.23-01.35.15:233][772]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.23-01.35.15:233][772]PIE: New page: SIE session: BlockoutV3 (Feb 22, 2020, 9:35:15 AM)
+[2020.02.23-01.35.15:233][772]LogPlayLevel: Creating play world package: /Game/Areiazo/Maps/UEDPIE_0_BlockoutV3
+[2020.02.23-01.35.15:266][772]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032700s)
+[2020.02.23-01.35.15:267][772]LogAIModule: Creating AISystem for world BlockoutV3
+[2020.02.23-01.35.15:267][772]LogPlayLevel: PIE: World Init took: (0.001309s)
+[2020.02.23-01.35.15:267][772]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Areiazo/Maps/BlockoutV3.BlockoutV3 to /Game/Areiazo/Maps/UEDPIE_0_BlockoutV3.BlockoutV3 (0.034153s)
+[2020.02.23-01.35.15:293][772]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.02.23-01.35.15:374][772]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.23-01.35.15:374][772]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.23-01.35.15:374][772]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.02.23-01.35.15:374][772]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.02.23-01.35.15:374][772]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.02.23-01.35.15:374][772]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.23-01.35.15:374][772]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.23-01.35.15:374][772]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.23-01.35.15:374][772]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.23-01.35.15:374][772]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.23-01.35.15:425][772]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.23-01.35.15:425][772]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.02.23-01.35.15:425][772]LogAudioMixer: Display: Is Default: Yes
+[2020.02.23-01.35.15:425][772]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.23-01.35.15:425][772]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.23-01.35.15:425][772]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.23-01.35.15:425][772]LogAudioMixer: Display: Channel Order:
+[2020.02.23-01.35.15:425][772]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.23-01.35.15:425][772]LogAudioMixer: Display: 1: FrontRight
+[2020.02.23-01.35.15:448][772]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.02.23-01.35.15:450][772]LogInit: FAudioDevice initialized.
+[2020.02.23-01.35.15:463][772]LogLoad: Game class is 'BP_GameMode_Areiazo_C'
+[2020.02.23-01.35.15:466][772]LogWorld: Bringing World /Game/Areiazo/Maps/UEDPIE_0_BlockoutV3.BlockoutV3 up for play (max tick rate 0) at 2020.02.22-17.35.15
+[2020.02.23-01.35.15:466][772]LogWorld: Bringing up level for play took: 0.003160
+[2020.02.23-01.35.15:467][772]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2020.02.23-01.35.15:469][772]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.23-01.35.15:469][772]LogScript: Warning: Accessed None trying to read property CallFunc_getMainGameInstance_GameInstance
+	BP_PlayerPosition_C /Game/Areiazo/Maps/UEDPIE_0_BlockoutV3.BlockoutV3:PersistentLevel.BP_PlayerPosition_2
+	Function /Game/AVRFramework/Blueprints/Navigation/BP_PlayerPosition.BP_PlayerPosition_C:ExecuteUbergraph_BP_PlayerPosition:013E
+[2020.02.23-01.35.15:470][772]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_getMainGameInstance_GameInstance". Blueprint:  BP_PlayerPosition Function:  Execute Ubergraph BP Player Position Graph:  DelaySpawnIfInitial Node:  Initial Spawn?
+[2020.02.23-01.35.15:470][772]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.23-01.35.15:470][772]PIE: Play in editor start time for /Game/Areiazo/Maps/UEDPIE_0_BlockoutV3 -0.016
+[2020.02.23-01.35.15:478][772]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel' has LevelScriptBlueprint '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel.BlockoutV3' with GeneratedClass '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3_C' with ClassGeneratedBy '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel.BlockoutV3'
+[2020.02.23-01.35.17:689][941]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.23-01.35.17:691][941]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.02.23-01.35.17:701][941]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.02.23-01.35.17:702][941]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel' has LevelScriptBlueprint '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel.BlockoutV3' with GeneratedClass '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3_C' with ClassGeneratedBy '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel.BlockoutV3'
+[2020.02.23-01.35.17:702][941]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-01.35.17:703][941]LogWorld: BeginTearingDown for /Game/Areiazo/Maps/UEDPIE_0_BlockoutV3
+[2020.02.23-01.35.17:705][941]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.23-01.35.17:705][941]LogWorld: UWorld::CleanupWorld for BlockoutV3, bSessionEnded=true, bCleanupResources=true
+[2020.02.23-01.35.17:706][941]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.23-01.35.17:939][941]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.23-01.35.17:939][941]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel' has LevelScriptBlueprint '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel.BlockoutV3' with GeneratedClass '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3_C' with ClassGeneratedBy '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel.BlockoutV3'
+[2020.02.23-01.35.17:943][941]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.23-01.35.17:966][941]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.23-01.35.17:970][941]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-01.35.17:975][941]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.02.23-01.35.18:061][942]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.02.23-01.37.31:513][793]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Areiazo/Info/BP_GameMode_Areiazo.BP_GameMode_Areiazo
+[2020.02.23-01.37.36:107][793]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0421 seconds. Added 121 classes and 0 folders.
+[2020.02.23-01.39.51:995][205]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2020.02.23-01.39.53:878][205]LogSavePackage: Moving '../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Saved/BlockoutV3_Auto149F794B9424236BC925D73900DD43CC8.tmp' to '../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Saved/Autosaves/Game/Areiazo/Maps/BlockoutV3_Auto1.umap'
+[2020.02.23-01.39.53:976][205]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Areiazo/Maps/BlockoutV3' took 2.041
+[2020.02.23-01.39.53:976][205]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.041
+[2020.02.23-01.39.57:592][332]LogSlate: Window 'BP_GameMode_Areiazo' being destroyed
+[2020.02.23-01.40.01:275][598]LogSlate: Window 'BP_GameMode_Areiazo' being destroyed
+[2020.02.23-01.40.02:934][736]LogSlate: Window 'BP_GameMode_Areiazo' being destroyed
+[2020.02.23-01.40.02:941][736]LogSlate: Window 'BP_GameMode_Areiazo' being destroyed
+[2020.02.23-01.40.02:966][736]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.02.23-01.40.02:966][736]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.23-01.40.04:745][851]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Areiazo/Info/BP_GameMode_Areiazo.BP_GameMode_Areiazo
+[2020.02.23-01.40.45:032][411]LogSlate: Window 'BP_GameMode_Areiazo' being destroyed
+[2020.02.23-01.40.45:040][411]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.02.23-01.40.45:040][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.23-01.40.45:126][411]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Areiazo/Info/BP_GameMode_Areiazo.BP_GameMode_Areiazo
+[2020.02.23-01.40.45:987][411]LogSlate: Took 0.035504 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.23-02.03.34:060][860]LogSlate: Window 'BP_GameMode_Areiazo' being destroyed
+[2020.02.23-02.03.58:578][ 82]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AVRFramework/Blueprints/Navigation/BP_PlayerPosition.BP_PlayerPosition
+[2020.02.23-02.03.59:183][ 83]LogSlate: Took 0.043103 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.23-02.04.22:945][390]LogSlate: Window 'BP_PlayerPosition' being destroyed
+[2020.02.23-02.04.40:332][549]LogSlate: Window 'BP_PlayerPosition' being destroyed
+[2020.02.23-02.06.15:525][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   6.05ms
+[2020.02.23-02.06.15:551][ 87]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Areiazo/Maps/BlockoutV3' took 0.135
+[2020.02.23-02.06.15:568][ 87]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AVRFramework/Blueprints/Navigation/BP_PlayerPosition] ([1] browsable assets)...
+[2020.02.23-02.06.15:568][ 87]OBJ SavePackage: Finished generating thumbnails for package [/Game/AVRFramework/Blueprints/Navigation/BP_PlayerPosition]
+[2020.02.23-02.06.15:704][ 87]LogSavePackage: Moving '../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Saved/BP_PlayerPosition_Auto2152811524D94E3EDCF20909040D714D0.tmp' to '../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Saved/Autosaves/Game/AVRFramework/Blueprints/Navigation/BP_PlayerPosition_Auto2.uasset'
+[2020.02.23-02.06.15:705][ 87]LogFileHelpers: Auto-saving content packages took 0.152
+[2020.02.23-02.23.07:826][825]Cmd: DELETE
+[2020.02.23-02.23.07:826][825]Cmd: ACTOR DELETE
+[2020.02.23-02.23.07:831][825]LogEditorActor: Deleted Actor: PlayerStart
+[2020.02.23-02.23.07:893][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.02.23-02.23.07:894][825]LogEditorActor: Deleted 1 Actors (0.069 secs)
+[2020.02.23-02.23.41:718][600]LogUObjectHash: Compacting FUObjectHashTables data took   6.76ms
+[2020.02.23-02.23.42:171][600]LogSavePackage: Moving '../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Saved/BlockoutV3_Auto37DB1E05546996B717D1AEA93FCDAC2C5.tmp' to '../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Saved/Autosaves/Game/Areiazo/Maps/BlockoutV3_Auto3.umap'
+[2020.02.23-02.23.42:176][600]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Areiazo/Maps/BlockoutV3' took 0.611
+[2020.02.23-02.23.42:176][600]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.611
+[2020.02.23-02.24.30:209][199]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.23-02.24.42:428][ 29]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel' has LevelScriptBlueprint '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel.BlockoutV3' with GeneratedClass '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3_C' with ClassGeneratedBy '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel.BlockoutV3'
+[2020.02.23-02.24.42:428][ 29]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.23-02.24.42:428][ 29]PIE: New page: SIE session: BlockoutV3 (Feb 22, 2020, 10:24:42 AM)
+[2020.02.23-02.24.42:429][ 29]LogPlayLevel: Creating play world package: /Game/Areiazo/Maps/UEDPIE_0_BlockoutV3
+[2020.02.23-02.24.42:456][ 29]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027078s)
+[2020.02.23-02.24.42:457][ 29]LogAIModule: Creating AISystem for world BlockoutV3
+[2020.02.23-02.24.42:457][ 29]LogPlayLevel: PIE: World Init took: (0.001239s)
+[2020.02.23-02.24.42:457][ 29]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Areiazo/Maps/BlockoutV3.BlockoutV3 to /Game/Areiazo/Maps/UEDPIE_0_BlockoutV3.BlockoutV3 (0.028511s)
+[2020.02.23-02.24.42:531][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   6.72ms
+[2020.02.23-02.24.42:656][ 29]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.23-02.24.42:656][ 29]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.23-02.24.42:656][ 29]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.02.23-02.24.42:656][ 29]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.02.23-02.24.42:656][ 29]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.02.23-02.24.42:656][ 29]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.23-02.24.42:656][ 29]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.23-02.24.42:656][ 29]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.23-02.24.42:656][ 29]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.23-02.24.42:656][ 29]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.23-02.24.42:719][ 29]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.23-02.24.42:719][ 29]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.02.23-02.24.42:719][ 29]LogAudioMixer: Display: Is Default: Yes
+[2020.02.23-02.24.42:719][ 29]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.23-02.24.42:719][ 29]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.23-02.24.42:719][ 29]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.23-02.24.42:719][ 29]LogAudioMixer: Display: Channel Order:
+[2020.02.23-02.24.42:719][ 29]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.23-02.24.42:719][ 29]LogAudioMixer: Display: 1: FrontRight
+[2020.02.23-02.24.42:752][ 29]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.02.23-02.24.42:754][ 29]LogInit: FAudioDevice initialized.
+[2020.02.23-02.24.42:765][ 29]LogLoad: Game class is 'BP_GameMode_Areiazo_C'
+[2020.02.23-02.24.42:769][ 29]LogWorld: Bringing World /Game/Areiazo/Maps/UEDPIE_0_BlockoutV3.BlockoutV3 up for play (max tick rate 0) at 2020.02.22-18.24.42
+[2020.02.23-02.24.42:769][ 29]LogWorld: Bringing up level for play took: 0.003707
+[2020.02.23-02.24.42:770][ 29]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2020.02.23-02.24.42:772][ 29]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.02.23-02.24.42:772][ 29]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.23-02.24.42:777][ 29]LogScript: Warning: Accessed None trying to read property CallFunc_getMainGameInstance_GameInstance
+	BP_PlayerPosition_C /Game/Areiazo/Maps/UEDPIE_0_BlockoutV3.BlockoutV3:PersistentLevel.BP_PlayerPosition_2
+	Function /Game/AVRFramework/Blueprints/Navigation/BP_PlayerPosition.BP_PlayerPosition_C:ExecuteUbergraph_BP_PlayerPosition:013E
+[2020.02.23-02.24.42:785][ 29]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_getMainGameInstance_GameInstance". Blueprint:  BP_PlayerPosition Function:  Execute Ubergraph BP Player Position Graph:  DelaySpawnIfInitial Node:  Initial Spawn?
+[2020.02.23-02.24.42:786][ 29]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.23-02.24.42:786][ 29]PIE: Play in editor start time for /Game/Areiazo/Maps/UEDPIE_0_BlockoutV3 0.314
+[2020.02.23-02.24.42:788][ 29]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel' has LevelScriptBlueprint '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel.BlockoutV3' with GeneratedClass '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3_C' with ClassGeneratedBy '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel.BlockoutV3'
+[2020.02.23-02.24.45:657][190]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.23-02.24.45:658][190]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.23-02.24.45:658][190]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel' has LevelScriptBlueprint '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel.BlockoutV3' with GeneratedClass '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3_C' with ClassGeneratedBy '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel.BlockoutV3'
+[2020.02.23-02.24.45:658][190]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-02.24.45:658][190]LogWorld: BeginTearingDown for /Game/Areiazo/Maps/UEDPIE_0_BlockoutV3
+[2020.02.23-02.24.45:659][190]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.23-02.24.45:659][190]LogWorld: UWorld::CleanupWorld for BlockoutV3, bSessionEnded=true, bCleanupResources=true
+[2020.02.23-02.24.45:660][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.23-02.24.45:880][190]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.23-02.24.45:881][190]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel' has LevelScriptBlueprint '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel.BlockoutV3' with GeneratedClass '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3_C' with ClassGeneratedBy '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel.BlockoutV3'
+[2020.02.23-02.24.45:901][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.23-02.24.45:947][190]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.23-02.24.45:961][190]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-02.24.45:982][190]LogUObjectHash: Compacting FUObjectHashTables data took   5.69ms
+[2020.02.23-02.24.46:050][191]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.02.23-02.28.02:948][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Areiazo/Info/BP_GameMode_Areiazo" FILE="../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/Areiazo/Info/BP_GameMode_Areiazo.uasset" SILENT=true
+[2020.02.23-02.28.02:990][319]LogSavePackage: Moving '../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Saved/BP_GameMode_AreiazoC409B1724EDA5B1B6C6E8CBD2B513CD0.tmp' to '../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/Areiazo/Info/BP_GameMode_Areiazo.uasset'
+[2020.02.23-02.28.03:041][319]AssetCheck: New page: Asset Save: BP_GameMode_Areiazo
+[2020.02.23-02.28.03:041][319]LogContentValidation: Display: Validating Blueprint /Game/Areiazo/Info/BP_GameMode_Areiazo.BP_GameMode_Areiazo
+[2020.02.23-02.28.03:372][349]BlueprintLog: New page: Compile BP_GameMode_Areiazo
+[2020.02.23-02.28.03:853][349]LogUObjectHash: Compacting FUObjectHashTables data took   6.05ms
+[2020.02.23-02.28.27:021][328]LogSlate: Window 'Project Settings' being destroyed
+[2020.02.23-02.31.03:744][268]LogMetaData: Removing '/Game/Areiazo/Info/BP_Info_Level_Areiazo.SKEL_BP_Info_Level_Areiazo_C' ref from Metadata '/Game/AVRFramework/Blueprints/Info/BP_Info_Level_Areiazo.PackageMetaData'
+[2020.02.23-02.31.03:744][268]LogMetaData: Removing '/Game/Areiazo/Info/BP_Info_Level_Areiazo.BP_Info_Level_Areiazo_C' ref from Metadata '/Game/AVRFramework/Blueprints/Info/BP_Info_Level_Areiazo.PackageMetaData'
+[2020.02.23-02.31.03:826][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Areiazo/Info/BP_Info_Level_Areiazo" FILE="../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/Areiazo/Info/BP_Info_Level_Areiazo.uasset" SILENT=true
+[2020.02.23-02.31.03:836][268]LogSavePackage: Moving '../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Saved/BP_Info_Level_Areiazo6E42663C4624562D6388D59BDED09D17.tmp' to '../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/Areiazo/Info/BP_Info_Level_Areiazo.uasset'
+[2020.02.23-02.31.04:215][268]LogUObjectHash: Compacting FUObjectHashTables data took   6.32ms
+[2020.02.23-02.31.04:274][268]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2020.02.23-02.31.04:319][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2020.02.23-02.31.04:511][268]AssetCheck: New page: Asset Save: BP_Info_Level_Areiazo
+[2020.02.23-02.31.04:511][268]LogContentValidation: Display: Validating Blueprint /Game/Areiazo/Info/BP_Info_Level_Areiazo.BP_Info_Level_Areiazo
+[2020.02.23-02.31.27:289][441]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.23-02.31.37:907][554]BlueprintLog: New page: Compile BP_GameMode_Areiazo
+[2020.02.23-02.31.38:335][554]LogUObjectHash: Compacting FUObjectHashTables data took   6.40ms
+[2020.02.23-02.31.38:794][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Areiazo/Info/BP_GameMode_Areiazo" FILE="../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/Areiazo/Info/BP_GameMode_Areiazo.uasset" SILENT=true
+[2020.02.23-02.31.38:808][597]LogSavePackage: Moving '../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Saved/BP_GameMode_Areiazo4EDD966F40D4C1FCCEA00095E1CDE337.tmp' to '../../../../../GitHub/VRfromScratch/BowlingVR 4.24/Content/Areiazo/Info/BP_GameMode_Areiazo.uasset'
+[2020.02.23-02.31.38:826][597]AssetCheck: New page: Asset Save: BP_GameMode_Areiazo
+[2020.02.23-02.31.38:826][597]LogContentValidation: Display: Validating Blueprint /Game/Areiazo/Info/BP_GameMode_Areiazo.BP_GameMode_Areiazo
+[2020.02.23-02.31.39:415][657]BlueprintLog: New page: Compile BP_GameMode_Areiazo
+[2020.02.23-02.31.39:848][657]LogUObjectHash: Compacting FUObjectHashTables data took   5.80ms
+[2020.02.23-02.32.26:852][915]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.23-02.32.58:757][609]LogTemp: Repeating last play command: Simulate
+[2020.02.23-02.32.58:781][609]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel' has LevelScriptBlueprint '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel.BlockoutV3' with GeneratedClass '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3_C' with ClassGeneratedBy '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel.BlockoutV3'
+[2020.02.23-02.32.58:781][609]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.23-02.32.58:804][609]LogPlayLevel: [PlayLevel] Compiling BP_PlayerPosition before play...
+[2020.02.23-02.32.59:246][609]LogUObjectHash: Compacting FUObjectHashTables data took  11.45ms
+[2020.02.23-02.32.59:284][609]LogPlayLevel: PlayLevel: Blueprint regeneration took 502 ms (1 blueprints)
+[2020.02.23-02.32.59:284][609]PIE: New page: SIE session: BlockoutV3 (Feb 22, 2020, 10:32:59 AM)
+[2020.02.23-02.32.59:284][609]LogPlayLevel: Creating play world package: /Game/Areiazo/Maps/UEDPIE_0_BlockoutV3
+[2020.02.23-02.32.59:305][609]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021196s)
+[2020.02.23-02.32.59:306][609]LogAIModule: Creating AISystem for world BlockoutV3
+[2020.02.23-02.32.59:307][609]LogPlayLevel: PIE: World Init took: (0.001984s)
+[2020.02.23-02.32.59:307][609]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Areiazo/Maps/BlockoutV3.BlockoutV3 to /Game/Areiazo/Maps/UEDPIE_0_BlockoutV3.BlockoutV3 (0.023337s)
+[2020.02.23-02.32.59:356][609]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2020.02.23-02.32.59:357][609]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.23-02.32.59:357][609]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.23-02.32.59:357][609]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.02.23-02.32.59:357][609]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.02.23-02.32.59:357][609]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.02.23-02.32.59:357][609]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.23-02.32.59:357][609]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.23-02.32.59:357][609]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.23-02.32.59:358][609]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.23-02.32.59:358][609]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.23-02.32.59:409][609]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.23-02.32.59:409][609]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.02.23-02.32.59:409][609]LogAudioMixer: Display: Is Default: Yes
+[2020.02.23-02.32.59:409][609]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.23-02.32.59:409][609]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.23-02.32.59:409][609]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.23-02.32.59:409][609]LogAudioMixer: Display: Channel Order:
+[2020.02.23-02.32.59:409][609]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.23-02.32.59:409][609]LogAudioMixer: Display: 1: FrontRight
+[2020.02.23-02.32.59:464][609]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.02.23-02.32.59:465][609]LogInit: FAudioDevice initialized.
+[2020.02.23-02.32.59:478][609]LogLoad: Game class is 'BP_GameMode_Areiazo_C'
+[2020.02.23-02.32.59:481][609]LogWorld: Bringing World /Game/Areiazo/Maps/UEDPIE_0_BlockoutV3.BlockoutV3 up for play (max tick rate 0) at 2020.02.22-18.32.59
+[2020.02.23-02.32.59:482][609]LogWorld: Bringing up level for play took: 0.003232
+[2020.02.23-02.32.59:483][609]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2020.02.23-02.32.59:484][609]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.02.23-02.32.59:484][609]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.23-02.32.59:485][609]LogScript: Warning: Accessed None trying to read property CallFunc_getMainGameInstance_GameInstance
+	BP_PlayerPosition_C /Game/Areiazo/Maps/UEDPIE_0_BlockoutV3.BlockoutV3:PersistentLevel.BP_PlayerPosition_2
+	Function /Game/AVRFramework/Blueprints/Navigation/BP_PlayerPosition.BP_PlayerPosition_C:ExecuteUbergraph_BP_PlayerPosition:013E
+[2020.02.23-02.32.59:485][609]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_getMainGameInstance_GameInstance". Blueprint:  BP_PlayerPosition Function:  Execute Ubergraph BP Player Position Graph:  DelaySpawnIfInitial Node:  Initial Spawn?
+[2020.02.23-02.32.59:485][609]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.23-02.32.59:485][609]PIE: Play in editor start time for /Game/Areiazo/Maps/UEDPIE_0_BlockoutV3 1.014
+[2020.02.23-02.32.59:492][609]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel' has LevelScriptBlueprint '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel.BlockoutV3' with GeneratedClass '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3_C' with ClassGeneratedBy '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel.BlockoutV3'
+[2020.02.23-02.33.03:973][ 17]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.23-02.33.03:973][ 17]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.23-02.33.03:973][ 17]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel' has LevelScriptBlueprint '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel.BlockoutV3' with GeneratedClass '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3_C' with ClassGeneratedBy '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel.BlockoutV3'
+[2020.02.23-02.33.03:973][ 17]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-02.33.03:973][ 17]LogWorld: BeginTearingDown for /Game/Areiazo/Maps/UEDPIE_0_BlockoutV3
+[2020.02.23-02.33.03:975][ 17]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.23-02.33.03:975][ 17]LogWorld: UWorld::CleanupWorld for BlockoutV3, bSessionEnded=true, bCleanupResources=true
+[2020.02.23-02.33.03:975][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.23-02.33.04:096][ 17]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.23-02.33.04:096][ 17]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel' has LevelScriptBlueprint '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel.BlockoutV3' with GeneratedClass '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3_C' with ClassGeneratedBy '/Game/Areiazo/Maps/BlockoutV3.BlockoutV3:PersistentLevel.BlockoutV3'
+[2020.02.23-02.33.04:103][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.23-02.33.04:151][ 17]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.23-02.33.04:155][ 17]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-02.33.04:162][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2020.02.23-02.33.04:231][ 18]LogPlayLevel: Display: Destroying online subsystem :Context_11
